@@ -2,12 +2,12 @@
 export libLLVMExtra
 
 JLLWrappers.@generate_wrapper_header("LLVMExtra")
-JLLWrappers.@declare_library_product(libLLVMExtra, "libLLVMExtra-12.so")
+JLLWrappers.@declare_library_product(libLLVMExtra, "libLLVMExtra-13.so")
 function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libLLVMExtra,
-        "lib/libLLVMExtra-12.so",
+        "lib/libLLVMExtra-13.so",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
