@@ -1,2432 +1,2432 @@
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "96c6c6a410c365dba83a23e8187ce1ea6c746380"
+git-tree-sha1 = "ad931689a47226db9eb608a843a9f99635acfc60"
 libc = "glibc"
 llvm_version = "15"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "65fd24a5b4f7b4d5aab292177027b78e67f2a4d55420f6b60e72d6e20cb0ea39"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-linux-gnu-cxx11-llvm_version+15.tar.gz"
+    sha256 = "bac082c9cbbfe097e0beb02c64a4b4b8bfd9b55ab177dd24c90e2cc4b850dc37"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-linux-gnu-cxx11-llvm_version+15.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9b69d5b3003ee9a22f87b310b3c9db66eaa88b34"
+git-tree-sha1 = "4ae3ebd4d52e337062584a7054e124533764e329"
 libc = "glibc"
 llvm_version = "15"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "bc8b27e1194d47e70bc996b3ffa19f8772d2401da7571e505b3bd4faae8192e8"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-gnu-cxx11-llvm_version+15.tar.gz"
+    sha256 = "57f9307d1f3affb3c6104472e018a3f8b528cc9fe68847813c6b977d5ad3461f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-gnu-cxx11-llvm_version+15.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ca88bc02661db680865c44db7642827db9072eea"
+git-tree-sha1 = "b592b533cbce94b5b1bc0f854a30ffcd8a7d7f99"
 libc = "glibc"
 llvm_version = "15"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "8ad4a8ecfa329a4c714f65dbdf0769f755ffaa0de738a6642162e9ce19407db6"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-gnu-cxx11-llvm_version+15.tar.gz"
+    sha256 = "c6e1640c7bc10259833615fc88a89d9a582bdcce05ef7f605e4bfd0a9d38835d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-gnu-cxx11-llvm_version+15.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b0f3a147f90999e112cd403f2fa664c99747f220"
+git-tree-sha1 = "fc13ec6ba43523e2a1d84d176289a46259960f0b"
 libc = "glibc"
 llvm_version = "15"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "7c62560c4c5d91aa5c5579bdfedf4f9e173c8e1de9d32c7d4fa4ee43b0f5ff6c"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-gnueabihf-cxx11-llvm_version+15.tar.gz"
+    sha256 = "6191513b5bc951e8cd3e466913260833c0981a25e110e315d3cfe73aface6b33"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-gnueabihf-cxx11-llvm_version+15.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "deb321fba41263e155c5216ee77d36f828a84f49"
+git-tree-sha1 = "4243710eabe57c3d71b7143b5295ec9069554915"
 libc = "glibc"
 llvm_version = "15"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "fd2b76f854c160e21b9e767c1bb5f68f6965c36d144478b738e08beaa9145b99"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-gnueabihf-cxx11-llvm_version+15.tar.gz"
+    sha256 = "4aed952ecf2d96be322a719a5fdacb731fc22fc7a6859883e93fbe46a44fb1f9"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-gnueabihf-cxx11-llvm_version+15.tar.gz"
 [[LLVMExtra]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "98ff91ee5221fda89cf0434bf0cb9c0f424852af"
+git-tree-sha1 = "8edd6c1ef4f8747b98b1435dac5de7fc26d742f4"
 libc = "glibc"
 llvm_version = "15"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "cb90f9db42f4afee3f9496c6c0b0ccf7a6b1756a2d67f1a75c7d8a8682246395"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.powerpc64le-linux-gnu-cxx11-llvm_version+15.tar.gz"
+    sha256 = "84cffb502c096f0846cb7cd39ca1e69f44482dbc9ae35fa99eaf5bda4a0b9384"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.powerpc64le-linux-gnu-cxx11-llvm_version+15.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0e2d0f5f8ae5f623f77971211b832e806778cf37"
+git-tree-sha1 = "103aa833db62b61c60e15d8570d46a8e8e59db04"
 libc = "musl"
 llvm_version = "15"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "6b0b41f12957c588361790d05b06c5b96b0896abd47300b408d3735cd9740127"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-musl-cxx11-llvm_version+15.tar.gz"
+    sha256 = "c30dd58f5e494d8e0effbd36ec962a5f98f2d60900dd23ecf94d5f1a50fcd0ca"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-musl-cxx11-llvm_version+15.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9490c95f3342cff2f92ab3d2576ced93d05dc19b"
+git-tree-sha1 = "3117a8e9f2ade220f9692d7e3ed1cd544a3e9acc"
 libc = "musl"
 llvm_version = "15"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "5d8151558b302b7c53f4d7fdba612c828abab81b06300f67891b12e71d349810"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-musl-cxx11-llvm_version+15.tar.gz"
+    sha256 = "0bceb9faa676f5648eb5a7e74ea37f309145f809f1b03c878c4e4c5877d88970"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-musl-cxx11-llvm_version+15.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "66dac52af86ca3adb7ec0399f3519d0f694ba27f"
+git-tree-sha1 = "ae7e248254dcfe10d50d25f16887ff7d10f8b0e4"
 libc = "musl"
 llvm_version = "15"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "59b708d85658b5e278c87d01bcd7a071bedee76ecbccb3735e5724d67bd7a9a8"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-musleabihf-cxx11-llvm_version+15.tar.gz"
+    sha256 = "d7536ef8e922b02e028db33384de855287f2a3a2b0ac894317b0a9dcd8c4abf1"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-musleabihf-cxx11-llvm_version+15.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9117be0a064e8d9d212bb0779edf627fdba16f16"
+git-tree-sha1 = "f1690271c84d0ff204e9ca47cc1c43a0e9d7d43c"
 libc = "musl"
 llvm_version = "15"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "7ea44766a9275e4f0619ca4d9823186e728484a68c5b53731f184c3d816f35c5"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-musleabihf-cxx11-llvm_version+15.tar.gz"
+    sha256 = "0b589d54277c7560e2b24707fbe8dd2e8b4c1e5b2389b590958dfb4bc9fac366"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-musleabihf-cxx11-llvm_version+15.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "41c38abcf6d55cc852fedfd0ec3e6f86e5e883dd"
+git-tree-sha1 = "045173213690853e3ded25e5a930fd7feefd9025"
 llvm_version = "15"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "87d48b1f6e73527537174e6334079db0210692501a90830605f1b688ea979268"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-apple-darwin-llvm_version+15.tar.gz"
+    sha256 = "8ca54fb4d9701ee860c04fda52f98dc345b3bf6b8329bb378dd00a08fe259904"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-apple-darwin-llvm_version+15.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "3af5002ab9be28b8df6a0a6c5ed7e1eaebd2e8e2"
+git-tree-sha1 = "63f97047f362abdde585ef341c418460185b34c7"
 llvm_version = "15"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "54b10b845783e79bbafb4f3c075a0ca77f02781c71b633403b73fdad723716a5"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-apple-darwin-llvm_version+15.tar.gz"
+    sha256 = "beec207f86daf2fc813312d9df168279f4f755e76b1ae195e7f9de87f15f756d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-apple-darwin-llvm_version+15.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "47cbcc54cdfc0445bdefd8cc3f48bb6299394ac3"
+git-tree-sha1 = "e852e1de02fd374b80e949849ca123469b84d49e"
 llvm_version = "15"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "a9c140d25327d392d1dad5dfd631de8b61b1c7cefa1c94e448c1455b37bf5e76"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-unknown-freebsd-llvm_version+15.tar.gz"
+    sha256 = "489f395cb628fca04e3fcbb02f87b56484b647dd7644cebd1de0cbef1ba64570"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-unknown-freebsd-llvm_version+15.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "863feaac67d90fbd4ca595a9261f51659fea2ec9"
+git-tree-sha1 = "0d68ea2be63a9e595c07697b87e311f01b412a92"
 llvm_version = "15"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "e9d52641ad950670fb569c96b5adcfdb8c7315cfc1a82392d0950ff08cf15c3d"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-w64-mingw32-cxx11-llvm_version+15.tar.gz"
+    sha256 = "384f2925ba092c9ae6bf53b84f545ee0b1a140780a2ab95f6551e0698ca8f88c"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-w64-mingw32-cxx11-llvm_version+15.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e41620f7ab118aa9ee5eaa3dad4e7363f5eff56a"
+git-tree-sha1 = "8897858a8f5ff4a3e1d1634a0b9b4991d4043376"
 llvm_version = "15"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "2383d5ba687742d941c2aaf55b726742ede51405ac11ae133f640f09dc30661f"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-w64-mingw32-cxx11-llvm_version+15.tar.gz"
+    sha256 = "f51584f0bbad714c0187de2a9264f879d5f3a8ceff9143a9b24891f83c6d57ec"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-w64-mingw32-cxx11-llvm_version+15.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1c1fce4ce5c4c9ad1e1ff3295c9216ea47a706f2"
+git-tree-sha1 = "1c12b58230bec85744e63871e81ca907bb604378"
 libc = "glibc"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "99e5a517da7f308fb20602f8f5c97bd0eaeb369799730140a7ac96465c49ba5e"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "ea0b6a6ccb32d087b1d1193f22e3b559ac7f45f1f876e4ac59c90e5448d7cfff"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "904400a31923cf8cd04093aa71d04fa8fdc7a84f"
+git-tree-sha1 = "2ce7efa139f21b938739fa6183e14bf1e73440f3"
 libc = "glibc"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "d9f1cf7d999bf88e2feb61724bc7261bc181c75ff9202e9c2c43ca7ee3d32331"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "7b26145c3c66915cf39c5653536e55f9cda1d3260a1d3dc4a1377a26803ddeaf"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4e0a2017e07afafd8efbc8e4b07d7aa36b987759"
+git-tree-sha1 = "bad80071d9a13f6b1ce214e58dc237f0508660f9"
 libc = "glibc"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "1e832bf24bd5eda9ae6d67b42a3088cff2973db1cbe69992c092fc0654128775"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "219aae7f058d8a617ab7b7696168787c7bf0de03396c80a66867824b3dca2284"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "863a00017058d96b81507bde4296cf64057cd3b3"
+git-tree-sha1 = "c4633fd87ea2dd722a382412061c2ead34d6cc46"
 libc = "glibc"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "559f0c1bfd4a09964d40abfe97fbd290d0c1b670df158f02cf9f48f07f46fc8e"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-gnueabihf-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "c5a09b2e3cdf85083bc21d2d09bc3be0be2e75a652b47198cd476974edf6dd3f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-gnueabihf-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "89a8dbd535e1397ed8d8d2c5e6c1193ef9d7e6f2"
+git-tree-sha1 = "5c82cb0179c396e22b9b1240e9a9319f705372ee"
 libc = "glibc"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "c63023b5b6fb09afd847b31857ebb5b8cb964ef6ba83fe6dc6c85a58ca9c31f8"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-gnueabihf-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "6baef74db3b3e4e074a4a190760e7448ecdbf0715d3c51454e1195c6586a26ba"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-gnueabihf-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "267da01c3488daba9a511bef92d012bd3eabf998"
+git-tree-sha1 = "a860f7c192e0c41fdf81f512c4aea7e5c13bd292"
 libc = "glibc"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "066ecbb3cc83f219cc3d86b9dac0a66d6f75f30d11787b8df81cb7aa7569ab3a"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.powerpc64le-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "ec316abe4cc55a299eaa21a23c0352872564a3ff6ec38896d260930ab16675b8"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.powerpc64le-linux-gnu-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f238a4874e2368005a0703d566fc074f669782e6"
+git-tree-sha1 = "7298eb961da060c46f542207d3de69acda239779"
 libc = "musl"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "f0b3e796d0758a659b3dc8c0c05ce485a1d7ea27caad1ea6bb1d913e928dc390"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-musl-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "f5e64e12f1c34cdc65d039ce4cf3450e4753819430e6b575b8f046bde76a4f9a"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-musl-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "647c9cb319ce27eeeaa98f26f48b017ac67b9118"
+git-tree-sha1 = "5558d36927be484dc04a0fe0cdaca3aa45fe274a"
 libc = "musl"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "f23179144620c506fb13551e857f8d4dfc7fdfad06dcd756a21107237347c299"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-musl-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "1ec304b776231ff87d0a6a7cc95652d2719c0e9a9dba16f98e5c8e2de9aa3df1"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-musl-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "70822679ec51e97b5d35f7c75098f7e686d8ec1a"
+git-tree-sha1 = "549a850b92fde818849172e2d947a993a17d22dd"
 libc = "musl"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "d0dccc83e2d73e1c053278826685adaaf3a70d91322e9b44143d3816b4151cd4"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-musleabihf-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "872989cf79af98ebdfbd8ef45b9f429fd7f246e9223676c4c0550d8766b7e916"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-musleabihf-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b50922508a9c550390732e6db621228939af78c9"
+git-tree-sha1 = "42f54ed3db2a0f021cbaa37997ce7072ed0aa84d"
 libc = "musl"
 llvm_version = "15.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "9dc78044a84135515c67ded0066617db3ae0ff516b08426fac2d93f3247ed95e"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-musleabihf-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "7a68975a15833bf0e08a2780e1442a11bd7b7ec380afa7ad314c8eefa6d45b7b"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-musleabihf-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "ff047df3c7d93b84cdb72d4e63448f19cc20c355"
+git-tree-sha1 = "13864374657f5fe33c8d560dd794c1d9f685804b"
 llvm_version = "15.asserts"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "af27dad6427406987599ab6246b2947c6670e8a35c180ee4ba6722acda8eac0d"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-apple-darwin-llvm_version+15.asserts.tar.gz"
+    sha256 = "00af05d312a4409a1dbbb2e695cc4d855e9e63326da49649a129aefca3ba7d61"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-apple-darwin-llvm_version+15.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "ad5b4693c7148a3ef1c3ab55b1bb4e351cb59a33"
+git-tree-sha1 = "a0f6b4ebf81e095b03c403da6fb833a9b06f5127"
 llvm_version = "15.asserts"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "f41ad359490825757a9fa0b0f1bf4976485f32c6aa83580347744edf66aef4ea"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-apple-darwin-llvm_version+15.asserts.tar.gz"
+    sha256 = "fd9903d4ce9681b445791433b1201ffb0c8a2e337a4d82744185db28890f4fa5"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-apple-darwin-llvm_version+15.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "4b9c69d9a40e8c42db76d863e574694f2d9346b0"
+git-tree-sha1 = "682c644d9403978022efb3a069c16777e4b88395"
 llvm_version = "15.asserts"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "af06e8d9cdc84cad64a35dbe1886103a447d16fb0062cccfebe4309bb4bbe026"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-unknown-freebsd-llvm_version+15.asserts.tar.gz"
+    sha256 = "3f6b0ccba3108207c7cd8a2ec6ab355c25101fe2a7ff3368f53dcd221180c3e0"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-unknown-freebsd-llvm_version+15.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "15aff49a3b4aff319cff29b7074f1582f5ce72f9"
+git-tree-sha1 = "ce381116dff696e439feb049bdabe1a510d022d4"
 llvm_version = "15.asserts"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "64e6231e71ddffda75f70cdb694851ed5b754dbee38341f952b9ee079fd15acf"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-w64-mingw32-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "ac3a2e3b77a4fa7d1d9695059f64fa53b5983007fa0322cdea6eded6abbffd9c"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-w64-mingw32-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5faa0e47931300494e6114e90fa39fff06fb141f"
+git-tree-sha1 = "cdf2ddf4b9505ea99fb57cdfc4820c70f2d37bef"
 llvm_version = "15.asserts"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "537ce589ca51127acb67b49c1d3ff732278246f31144bcb55123909a6eeb3b0f"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-w64-mingw32-cxx11-llvm_version+15.asserts.tar.gz"
+    sha256 = "4b4bf90abba42719efaf76442187537f29d4f50bc1f1747b0bfeebbda6638de0"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-w64-mingw32-cxx11-llvm_version+15.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d967b999bc8150c861ae1fb915af2cb927ce2ea0"
+git-tree-sha1 = "2d219a9df3e308e1c161f44841ee3c0a1fd530f3"
 libc = "glibc"
 llvm_version = "16"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "c720655f4b3a9995c2930ca7c0b75c7c00a0c16ff62610d174f9409a14c36d8e"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-linux-gnu-cxx11-llvm_version+16.tar.gz"
+    sha256 = "78dc3e155e80084ac12d1cd030b32af8477eb29e3771b237eebacac7a70aa02d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-linux-gnu-cxx11-llvm_version+16.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "03f27b9fa0e0b6904a212449b6a35eb8df3e27dd"
+git-tree-sha1 = "d0004dcbb60d687819542b3a5489e21f3a0dbe8b"
 libc = "glibc"
 llvm_version = "16"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "3e891b7f0c1bbdc8390912808bbebd81821610144566fda44698bb21642bdd6f"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-gnu-cxx11-llvm_version+16.tar.gz"
+    sha256 = "7f7c30c32bd3838f1e1a012c618d974aa450640b7df44e63d95e9091db82f418"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-gnu-cxx11-llvm_version+16.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "65d9c31d4f6b7d0c38cca70c01fd6224a56a47e6"
+git-tree-sha1 = "4f8c403771f960119fcf09ad29465661192d921c"
 libc = "glibc"
 llvm_version = "16"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "a86495cbcecc5f146f39ffd6bc60f96ae3423fc2a8d89df6e951075349670ed3"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-gnu-cxx11-llvm_version+16.tar.gz"
+    sha256 = "e20cc2620634225bc5514247dbc9768bd64acdd7db2f5ba4fc73b9482e04f69e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-gnu-cxx11-llvm_version+16.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "15b89cdfc71dfce33628ff1877394b3e3c9f64ca"
+git-tree-sha1 = "903044d400b34403d959e828e889e02f5a111d73"
 libc = "glibc"
 llvm_version = "16"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "1ee41d6f058711ed9a518ec83e320a9ea24494c1a4cc75f7dde2e5233808cd53"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-gnueabihf-cxx11-llvm_version+16.tar.gz"
+    sha256 = "10711e6c97e0ee729ae527143355a15ec323c8a81b00b0498d35b2bb8a5c4cc9"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-gnueabihf-cxx11-llvm_version+16.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "07f5ad171dc1bba6875f80628cc7a0a936379410"
+git-tree-sha1 = "f00999b28329d090b49707e0296e11fe942b8c5f"
 libc = "glibc"
 llvm_version = "16"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "beb444fa9b0edd24f7856c5a6d17175e124f427565af09d4c68b0f325b913979"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-gnueabihf-cxx11-llvm_version+16.tar.gz"
+    sha256 = "a2b229b71138de9285849ac05077d3a21f7c572a19772b090763526c04b1778d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-gnueabihf-cxx11-llvm_version+16.tar.gz"
 [[LLVMExtra]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1547b8278e389c2891cf76bd1bb749095ac9e45d"
+git-tree-sha1 = "04ab8db969f98bf48823b68ff8fb84f4ae14fffc"
 libc = "glibc"
 llvm_version = "16"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "d729ff9af1ebbf6d1a534f53e8ecfdd68fedb29bd5c2e3c2f7df96dabb5df1f2"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.powerpc64le-linux-gnu-cxx11-llvm_version+16.tar.gz"
+    sha256 = "693c7d7b306e9d7b2f00512ab2473ded08a32868a2be57d26ab7a2021e6e4640"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.powerpc64le-linux-gnu-cxx11-llvm_version+16.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d2beb8b893be5e802c706b9d7aa302d4b2ffb118"
+git-tree-sha1 = "db514ba7b26165e25ee55b5c401d1f95f62577be"
 libc = "musl"
 llvm_version = "16"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "6a64420c4dddf0ba8ae0b4a8b5676263ffb090ca01157652d5b886caf724afa8"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-musl-cxx11-llvm_version+16.tar.gz"
+    sha256 = "b91f43fb2d0c97a08812347a09af8db7960f065f82f7b758c31b0f8a9c319737"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-musl-cxx11-llvm_version+16.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "52991406611169e5adc9dbd76b0de9f19a2064dd"
+git-tree-sha1 = "03e6fa55528b5ee20a8c8c07398ca4dd9a4735fc"
 libc = "musl"
 llvm_version = "16"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "adea0d26d7f87a2aa9e935706705f9000478cadbcf39d1c72b47378fd8be4d9f"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-musl-cxx11-llvm_version+16.tar.gz"
+    sha256 = "039ae32e65d5603f1adf65ad725a5a858d5b43a5400e68118c1235035194aceb"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-musl-cxx11-llvm_version+16.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fbe458ba3ef55b20c259139762de338d01b09d7f"
+git-tree-sha1 = "2a7bcb49f45d66c68e76ace42459d035d59fe12a"
 libc = "musl"
 llvm_version = "16"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "2c7849bf363943f55e67ac253e798afe528cf8637c19c32e7b62c82d8b5c0748"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-musleabihf-cxx11-llvm_version+16.tar.gz"
+    sha256 = "b0cb07f91489ff1bbba6b9f26f0c82484485b5bf1732caf92e61e924f268a092"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-musleabihf-cxx11-llvm_version+16.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b7b9fe409cf1e9082567bcafae23f42bc20249b3"
+git-tree-sha1 = "6dca1d53a56f1b87e089a355d383b0808d7a2318"
 libc = "musl"
 llvm_version = "16"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "6752d8dd0f4edd15d595289bf1258da123bfeaf093f73f12ce5dbff778bed897"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-musleabihf-cxx11-llvm_version+16.tar.gz"
+    sha256 = "19bce782c592f6d841b76ab09f72ff89573f26011154bb9b981b798c208c4c47"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-musleabihf-cxx11-llvm_version+16.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "9822dcbae793b43ed51be54179fe3be2a860eee5"
+git-tree-sha1 = "3a2d171a8a3a67db2320aa7e3c2a78783b5cce1a"
 llvm_version = "16"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "2fbbf4c01dca4f25824749636e0ee7b727f5f416a5a5943ed3ce2166e87f4603"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-apple-darwin-llvm_version+16.tar.gz"
+    sha256 = "af6fd9e0c82d486ab5c89bb40a670e07dba1dd1e171a59a6bdca14b1110dd83d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-apple-darwin-llvm_version+16.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "10d9f975215343fbb5f4fe12098c13268fcddeb5"
+git-tree-sha1 = "5aff991b6ce01cea44ac64078ee82fdfea391b67"
 llvm_version = "16"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "02ddf18dc8f281ad6e02d200f6c1ad5a6dd951abc9ccd6434893f96c4055ba46"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-apple-darwin-llvm_version+16.tar.gz"
+    sha256 = "b6d3cdffcda0947961af44766025936ccd7b4154ae2c50246925bbaf5220bfb4"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-apple-darwin-llvm_version+16.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "ae44deeebc69887221878155ddb1ed7ad1d3add7"
+git-tree-sha1 = "01ee7f8af878d934fd85875711bbbb63165ed8fc"
 llvm_version = "16"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "263a280df71a2830339340e160be82c9bb527ac9396fc34934154e24901b329a"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-unknown-freebsd-llvm_version+16.tar.gz"
+    sha256 = "082ad0a31571a6ebdfbe0ff656240aac1d80f7bd25998b3e13e895f897ca2c7e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-unknown-freebsd-llvm_version+16.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b4f5f6f10c1dbc558beee4ebd2ede3049a726508"
+git-tree-sha1 = "181402a94b21a43fbfb73b7a347b257cd06839eb"
 llvm_version = "16"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "ee0efdc1c65dd3719cc619b2a4ac6d549e0ffbf14039b422028cc33a4cbcd6b2"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-w64-mingw32-cxx11-llvm_version+16.tar.gz"
+    sha256 = "011fc1436d8e06d758532997988ef6c13b747c5c0c3eebbd1bab6add4f3283d3"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-w64-mingw32-cxx11-llvm_version+16.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6b6b68710dc5bac113c7d848f82c38a08c617ce5"
+git-tree-sha1 = "aa5a1921d33e1ab8c2ebaed76e23fa3b035aa4e7"
 llvm_version = "16"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "7dae63f75f349b42531fd257ce10e06f3aa2794b2434667f54eaa19e23f7fa25"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-w64-mingw32-cxx11-llvm_version+16.tar.gz"
+    sha256 = "f456c2a95a3c4f509c5fd6905b8cce25a50697f6284c66c3f0740b0f81114258"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-w64-mingw32-cxx11-llvm_version+16.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bb6f93d139e031fcfb857fcc4ca9bf74de89d26e"
+git-tree-sha1 = "3fb1ee2fb5c2465662e1347c1341d71425802be8"
 libc = "glibc"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "bdecbfd2baa5c2b2da2f89efcd1e1af3794482fd5c326ec63d7696ba9c765355"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "2b40137636e52e452ee62d59e6e1b13028755ad24fb7e0f658ae34bf0cd240c6"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "27b4efb66f20fb275d06a1283491cfa781e6713f"
+git-tree-sha1 = "596425287b7b5b016981d170ec3784782587e0fb"
 libc = "glibc"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "883bff6a731047405e35c8c8a01cd63960df0e109341417b7a300d43f944d4ea"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "9d7286ad0acc8ac33371a0fc99f68fd44cb5b709d8371c41aabcd19996fdd121"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4a00a3d9f52e2be636bbd92e132d4571c6f4fb4f"
+git-tree-sha1 = "ad8a4306e8bc12077f6c8670347ff161635280d9"
 libc = "glibc"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "00f941479cd83b2556de755d32a5fd7a105fa21efa2094fd2532c354efb25883"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "c1ace34132f90cab2ec5e5fef47920ce21638ee04ede12bde0027a6e5e74e4bc"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6c3132091832693fbc4dc799efd7c21560c1e2ec"
+git-tree-sha1 = "a417f79b8fefcb5067a71a39085999c614fa5139"
 libc = "glibc"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "cd13476a1ece6864c4980b6b3f143bd3aa39b789b631fc5c6fc06470783e4e53"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-gnueabihf-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "3c9ec09db7200b41061595265f0d03f7cfde5669878334b219337ffdc0a2f2f1"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-gnueabihf-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f238964ada6aaea4738f381ce58f3ee030b2aa76"
+git-tree-sha1 = "78c50994986987eb91468456d84c468ab39982d0"
 libc = "glibc"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "73bc71f580f675c6b39dfeec97395adfdf0e36ac17512366495ad29d8be0f309"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-gnueabihf-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "9e384ebce8e771962a4dead13a3bc90e3d2f7613d494ae08fab538d60ac47a36"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-gnueabihf-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "12a4017cb66c31e284c4ebfedf3a3965a402e0a4"
+git-tree-sha1 = "2e5ffba20add49661091280a03eab4cf8362e202"
 libc = "glibc"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "9e9ffcb89648a1571b9f99ae0d04069117fd3caff05962b8fed7d77306a3ca1b"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.powerpc64le-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "e10391713857a05410caf9a21f1def01e1977763a04a4132aa3cfc9f06293937"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.powerpc64le-linux-gnu-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "226f38738e2854f185d174d2a983ad7fef37c973"
+git-tree-sha1 = "0301c8081e4ff75c66d259f27b66779101cbeaef"
 libc = "musl"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "a3dc1898ae20a68b011907a862575c3aa72dfc33d9701cfdf72510fdb61df4d1"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-musl-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "6ea0c71d68b32f0fc7a259f1335bc38190cfa47319873b07e6a26e7681540233"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-musl-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4132c231ae59ed0fea37c67dd618cd941f4d1b4c"
+git-tree-sha1 = "73e22e71f29bec9871db6888cc5ef5ff961fd2d5"
 libc = "musl"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "27a3ce2ef86783b80035dc100aab6741e3bf557234c1798fbd6eaec52bba5b85"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-musl-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "d1600eff9d672002c70256ac4739197c254474cd6d2f3e66518b448b56ed2ebb"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-musl-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c507bb04b1d25d4784b5fe9ff963a1a598db9d62"
+git-tree-sha1 = "d295e1a08113c5632570b5c9da9b0a67f05cfb91"
 libc = "musl"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "dd970242edbd0f83438d771a459cf6e6d0e8f600c6f5b8048ab8b5af51430615"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-musleabihf-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "bf1e1bd5d885d33d7d745297c01f5b309de7cfb1da9356240cf85372d87d6d5e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-musleabihf-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bbed69fd7245a88763969cc3552313dd7af52c73"
+git-tree-sha1 = "0d9ac012ec9c29ba12dd7116097cc1c40530bfd9"
 libc = "musl"
 llvm_version = "16.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "e10b50de856812b82a7099f68cfaef7251be89e9326fda30e29b623f0aa78ba4"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-musleabihf-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "8b501d86b0269285032edb96d6ccf7c4a68ea4f896845cc3e845e07d6c8ad54d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-musleabihf-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "7dd7c2b32ae897785b62c56b381bc17f84cdad9e"
+git-tree-sha1 = "485a94a73d2d5dc7635afb3ad6ffa28b55d7d079"
 llvm_version = "16.asserts"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "32614cad07694859a7c1d9195366186d5a99f23be5d08f3178e664cd8ef52878"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-apple-darwin-llvm_version+16.asserts.tar.gz"
+    sha256 = "45dba48aacf00961d96207863673db097f6d54f774809ec79c9d97cc6aeed6da"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-apple-darwin-llvm_version+16.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "bdd4f3f032aa9c55d505ddc30410bae5fd1c9978"
+git-tree-sha1 = "b53d33a95d055eac93c560ed5e78f526d989dcde"
 llvm_version = "16.asserts"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "db97ff1c0cd7a13df1f5399deece8834cd6b98a25825e1e52fcbd1e861bbdcad"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-apple-darwin-llvm_version+16.asserts.tar.gz"
+    sha256 = "f90c91fce5d0c118efb59d7080a6de2378e9a7762aa687337c951fc9863eb241"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-apple-darwin-llvm_version+16.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "97db4272a0db4fd5abeb282c81707d153ee3c944"
+git-tree-sha1 = "ffc4f2daafc8f1238dc8f47825778c54311ba80d"
 llvm_version = "16.asserts"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "927a11ab7b095f7714eb8f4f3780505fb1343b2c802894e2ebeab7d24ac3f3d8"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-unknown-freebsd-llvm_version+16.asserts.tar.gz"
+    sha256 = "0c89801e183682ea8768999685481ecd856c8dedd39a360e4df76ebb5a32c7c7"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-unknown-freebsd-llvm_version+16.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "380ada9280f494eef52cd341ece06bde501c8fe0"
+git-tree-sha1 = "1953bc5333d75e1bb8c99c576715d547b6376bb9"
 llvm_version = "16.asserts"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "ea1970aef494951c066e5faa00706aa0c966cfafaddbc15d45db24deb88b2c65"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-w64-mingw32-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "09836a475ffbaeb14d5d6f69821265655197644e20b519f77de68368bfdd86c9"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-w64-mingw32-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4ee34490af6c542a837f8f5e41b60057a6cda060"
+git-tree-sha1 = "592c6db51fa34ee09115086e94460ad624d9a531"
 llvm_version = "16.asserts"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "512d49c6f08c1ff10b0d7c10765abd95ebbae09efd0a58d13cbbfae17b3f1ae7"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-w64-mingw32-cxx11-llvm_version+16.asserts.tar.gz"
+    sha256 = "03c59bf44588dced199e6e35888f83d6ec6d1e6f80c16dc2f179773eb4e22e2d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-w64-mingw32-cxx11-llvm_version+16.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "588ee7aa145725f5b40fab6c8b8ccfa471ad86ea"
+git-tree-sha1 = "3017214f19aecc4efb0fc26302a0532adacf09f4"
 libc = "glibc"
 llvm_version = "18"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "0ed097519ae2ec38cb827704504ee6fd956d2af69cfb413495ff1fc6bdf8de4e"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    sha256 = "a44c351dd2e964a0b7381aae158a1514d1ca2327c3c19f050507e8db72057120"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8d27ca2e847b4b071690cbb0c59174d8e6fe4c86"
+git-tree-sha1 = "6f59fcb3f68395f35e6891741c346f8a4147221f"
 libc = "glibc"
 llvm_version = "18"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "3bbea15ce7d1fd537dd6d57b247601dba1482fe45bcaeaa0c3d3e9f281f91f5c"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    sha256 = "9cdc67679b888e6cb6421ab05679908426e5f57ff2da704fd41e4253cab16d9f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4780ec30ffca4e0f6fa7506251cca01b1de746b7"
+git-tree-sha1 = "a0f8bb4f5f1a9cc26f241a69917c2239da099dae"
 libc = "glibc"
 llvm_version = "18"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "be39c3665a373a38d0bca82db2e4ab9d4aa6f283386a996fc7cd2ad008b2629b"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    sha256 = "5ec753b063c8057c9ab532bc20acc705aa5d6e2b3da0948bda68479c3f28ca6e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "61ff299839c8ad6b35af7550f4120670b81bad0f"
+git-tree-sha1 = "79e5e056938862a0baf2a674a43ebbca2735fa9b"
 libc = "glibc"
 llvm_version = "18"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "d5bd4806e0da64c393facaec59008c70618cd90e342d4850de21fd1b07911eab"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
+    sha256 = "652385a1ab595a4eb8842754c74d51a318c465e85b64cdc230c1a01cfc3c6567"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "89e3e0a0313fbfb8276d7d3394d15568f33983ef"
+git-tree-sha1 = "3487ccd8de67c2adb522fb086ef4c15a81ea32be"
 libc = "glibc"
 llvm_version = "18"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "00045644b5471c2ec21cc7d3376fac5d0999096ff2f50ccacb25f75f4fdcaa85"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
+    sha256 = "1dba1fe0443b646d2bd61fb21282f32f4535e673f816896a9c438f7a8a07d193"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
 [[LLVMExtra]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d552677764e917685b8b3578891bb6b4c7997eeb"
+git-tree-sha1 = "d20c9350cf13ead7fdbcd90be9af998eaeba8a4c"
 libc = "glibc"
 llvm_version = "18"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "5f33322798eaa2210cd80ab7b01c64fff08d3f6175992a0583f6fa070c886557"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.powerpc64le-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    sha256 = "bdbb3c761c8fc67f7e12eaeb1d3ba3d85887cedc16eb5af3ccac22de97a6bac4"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.powerpc64le-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bdf808ea6b141357189d23c402f1b641211ef64a"
+git-tree-sha1 = "c4e914f631b3bdc002c70eb75646efea9dc3f2ef"
 libc = "musl"
 llvm_version = "18"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "7b5364398728737dc404938367e63bc9efcaae419837f581659490bb71f2c452"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-musl-cxx11-llvm_version+18.tar.gz"
+    sha256 = "a1afb90d819271471bbf882dcac2ec1c81591bd099b3df079d7bff560a06a65e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-musl-cxx11-llvm_version+18.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f44e23bfde9da1185bea1d77519206c49460a52f"
+git-tree-sha1 = "5c14db7478779647c5dbe9a75d9b2b38d80bb4fa"
 libc = "musl"
 llvm_version = "18"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "764a5668a5efdbf9d81ada09083740f746528c3e2d25c194ed6df1c0f4c3bff1"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-musl-cxx11-llvm_version+18.tar.gz"
+    sha256 = "e50a51c8e6eb289d6057a16169583c97ec5c44c316f0baaa05fecdeb774077e7"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-musl-cxx11-llvm_version+18.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3d3dbc572386d04f27894b95e2f00e24553d384d"
+git-tree-sha1 = "93ca4404116927a980acbb9d419862402f50372f"
 libc = "musl"
 llvm_version = "18"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "add22b9763c044ee41cf2f2f1703583cd05c6b385c948ec8c01a46f08dc05782"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
+    sha256 = "f4b175d0cd0a3832124b74941a514767b5b975e54f40c1d55b093a63fc018330"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b2f215a74bd826b179c558db65bfdd6a0c8cb21f"
+git-tree-sha1 = "fec65e4393d37fe47836a97cf24b00cadbe40d3d"
 libc = "musl"
 llvm_version = "18"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "0342efda6f0672597535e7552f1c7c822a8b341266b965af8f87663db9af0ab2"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
+    sha256 = "e520d64d1cb470587402bb72804497f3ba42bcc1cc6fae684293652315260f9a"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "12597205a579e07c5172468adae0c5cc769de29a"
+git-tree-sha1 = "8d43d5e551bc4396aba27216fda51399efd784e2"
 llvm_version = "18"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "884119e66664b7f21574cb2dbfa530128780721df473532d2c8e64910cbbbb72"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-apple-darwin-llvm_version+18.tar.gz"
+    sha256 = "d1d8603a1433256bb8186dda83cd3e93a4edb15587739f6655b4e958f2a359e8"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-apple-darwin-llvm_version+18.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "a6c6378f91fb5d7eb5d27530024a04ccb5553d92"
+git-tree-sha1 = "0b836afe25a34bf92bd1d9e110de982bd61a4877"
 llvm_version = "18"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "5cfcceeb7b8c728c37fc3a47d877fc27d7a05b5aba8287ee65a78517a5dd13b5"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-apple-darwin-llvm_version+18.tar.gz"
+    sha256 = "b56f2e44e299a2586cfd0e14af4bb35ef724a17f983e5e2f131071863ad236a2"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-apple-darwin-llvm_version+18.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "da85f7594639134f0a2b538aeda1ab818c787654"
+git-tree-sha1 = "f2ab08cc6a9576bfa7c6741b9b5f57f41311d173"
 llvm_version = "18"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "1403550617ada634250fccfc57c398f4de7765a01ea385485823979312108de8"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-unknown-freebsd-llvm_version+18.tar.gz"
+    sha256 = "4484db355926902fb85c5b5ac38a73b5c9b91f3c5323432aea62afc14f04177e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-unknown-freebsd-llvm_version+18.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "c03aa78807fb34eda64d8f87607c859de56823a8"
+git-tree-sha1 = "3683f9abd6f1c360481ee13e93c9a2f72526201c"
 llvm_version = "18"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "f0944d09481a71b2e32ae88314774fbfae5a6b659d647e20634ba277741eaea6"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-unknown-freebsd-llvm_version+18.tar.gz"
+    sha256 = "daadc6704881289c0c97474e28596602bfa0f364c8e37f0f87d17ff7ba264df5"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-unknown-freebsd-llvm_version+18.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "01f1ac81cb39e32925abc9a54e5906ab496fd4f5"
+git-tree-sha1 = "9f913f17c0d51738d61b2f58e2d719c9ee66faa1"
 llvm_version = "18"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "b4047a822c8c340965be81965f838f149f701e8a358d8d2acc0715ad0f0a4f83"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-w64-mingw32-cxx11-llvm_version+18.tar.gz"
+    sha256 = "555049c28c2b8d637127c05ee7d54873e41a27e15ff926cce76e68be0ec7478c"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-w64-mingw32-cxx11-llvm_version+18.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "272912cf44894ce00e9f21ec97602ab927b4361a"
+git-tree-sha1 = "de8d601da3e2466d5b4fac1fff556004066c84db"
 llvm_version = "18"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "64065a11dc547aa5afebbafc67029c3eacfc311937aa8b235adeb70a93ca0a1b"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-w64-mingw32-cxx11-llvm_version+18.tar.gz"
+    sha256 = "142a95b51515cddd5beb271a742feb69a947a10dec36a0562c426a10336d5bc1"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-w64-mingw32-cxx11-llvm_version+18.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4acdfdb0523f675d7f987c26ee89e186e70cab91"
+git-tree-sha1 = "5ee888667f1db7b99a2841497263b31f0246871f"
 libc = "glibc"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "46015732fb70916b628c0b589ccf57e0b8a259af111c8d8beb3fb60bdfbb6a1e"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "9a41e82be280bf0d79ace0a6422b35102d5596a2e97522dfef80b2cf18e9e828"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9d52f379c3ea092050c1f60fdfb27bd0778cad34"
+git-tree-sha1 = "a795b3897a9c3048ffdcb0e50c7eb7e02b2f2fc1"
 libc = "glibc"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "4b679e768cbfb5aae25b482b87d0438d3e6c3bf17a8f74c48013ecc1f7eb7694"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "8e7f5462db1af35d7ce8533cadafe1c94cb82a55a4f92e828af6f269399a559b"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "98f4c8ebf45aec2b5517cdcaa2223c40ef5539e6"
+git-tree-sha1 = "319047132170e9900837986f9338fb632193bcb9"
 libc = "glibc"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "59724436a7698223e6d45813622ce123183effc31f6a2d900d5dd19c2f5cda36"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "606020b1830b2bfc6e92fa28f90eb1cfb647db0ae49b12b9843a53f18520eeeb"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d529a68855316637f0c1aca457c28309ad5c2510"
+git-tree-sha1 = "aefd8a1f5b8c6506398dc9ff589a21fd41bb7bcf"
 libc = "glibc"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "5948bd94587fff1d5476c7bf03758cc41e231fcaa704edbe46c2c46d6c047086"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "8da8aa1011a6ca8c05804035339af5358d60cfc29091d48a7a65861f4dd72b45"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1182ce3f9a85dfc65b837ec3d279fb4c4e1653bd"
+git-tree-sha1 = "1a8628eca3c3db5ee10ab1b3b74fb0192c1155a1"
 libc = "glibc"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "2ff3d5b6821ee8d157c62840156d9b4fe04094d93c2e95013a8fc480f77d384f"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "a6a8fdf97508b363339b633c87decab160e86f0cfa732d7b6526d6703013634b"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9f20381a167af7f93f9e900bfa6398f072e36ac2"
+git-tree-sha1 = "06fd652f6ab93770c2db61ace3b20c9f1eff69b2"
 libc = "glibc"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "185daf505d7168741836db1a9cc46b0ad74dc024339901945caaa2be004f128e"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.powerpc64le-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "fbd5eeadc13436fea47016c150df15a81e1cb52e7744b75192adf738f2b1c57a"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.powerpc64le-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e719bbb68f6effcd0028aaa64a3c53e553eca695"
+git-tree-sha1 = "012fa8c6176d7e8202d4fc3853d0ea50e4c75c24"
 libc = "musl"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "550d920ff00215dc39ba100f7eae2bfca7707e9c714eb679cc6ee8477e480616"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "2dd4c63caefe40865893c4405e9d7bbfe50e7ee45b397b52bb86af6acde2fdd8"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d896eaa7639c2c37b13b53a5bd6a8c7d65e66a0e"
+git-tree-sha1 = "b8c3da6edaf68f356b25b30de09737acab4716a2"
 libc = "musl"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "65d4b289a76bac11495dd23cff167cbd0729f2fb4b47068093cf3acf69589bf9"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "cb3ebb06fb76c7e59ea40119499b270591e7c63cac7903a2b2e59d921ac2ab61"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "df306c73dbbf338353f1a710321aaed43aa9555a"
+git-tree-sha1 = "9e82fa36ca5aadef9160d7c71fed447e79a90dce"
 libc = "musl"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "da3fcab2edcf9c94254541fd7bcf2787ec84b8b842775e96a7e71c82c203412a"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "f797ce4a325ccb361a053f624e7a2e750bcd179a2cbff8646a0bc0c4c54d4503"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4402a34c8f38ceec0d54e9fc32f64463d0b3b109"
+git-tree-sha1 = "9c40f7affd206ef25002cf0b26d312d81d5a1c73"
 libc = "musl"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "5944508a7a5ac6d868a2a22096e5b99aad7286cc49210e13b11ff299117e8df2"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "b397489936189bfe0c98804922e6d3c43dbbbc0d1f5c930409ad551312ada324"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "55b181b265bcf1ea28420cf3e75bf4fa66dd7368"
+git-tree-sha1 = "114e6eabc1624f21d78d55901c10a0128fcbb80c"
 llvm_version = "18.asserts"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "e8d95cd1023b2f67b4a28624e89d13e11ed764cba27256eb89b5bb0629b2afd1"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-apple-darwin-llvm_version+18.asserts.tar.gz"
+    sha256 = "b232bded84f33bbf2f76d4f4d9c03289c0447cc19d3845d03acddb95c82ffdc1"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-apple-darwin-llvm_version+18.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "b0ce062d7c6875d23173e467a18509d9772a087c"
+git-tree-sha1 = "851330ca9dfdd710bd8cbce7a4685118048aca1b"
 llvm_version = "18.asserts"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "c86e2ccd17c6c58dc04e4add0e780844df444c0a24ce3204ffed9d482f1f183f"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-apple-darwin-llvm_version+18.asserts.tar.gz"
+    sha256 = "adbfca6e2841a190c60881b190663e5fa611055f82da185d00f1ed6280b38cc7"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-apple-darwin-llvm_version+18.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "aed7481e1fdd14faf0bf96db368572db18c82ae1"
+git-tree-sha1 = "e88ab29a6110541d8bddf71a4d40dbdc1c0eeece"
 llvm_version = "18.asserts"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "a897a3d218bab353e2cc934b092c0b894ee26180fb6205dfc84f05a6fd274e35"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
+    sha256 = "f629185d687c27e6dcdc2ab914304ab14b53b664c4d3357ed93236ad63719cdb"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "34dbe24cee30b301186c9d7f3ad3004942bd5ee0"
+git-tree-sha1 = "af0f9f0097e158973db79b32eea6ec505efcf97e"
 llvm_version = "18.asserts"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "ab770b2b9ad1121aac6a9f9390167d9f70b7f4e86518416b5cb84d5eae75d0f7"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
+    sha256 = "8c69ed8d2e5ad8f9db25311773e485b37887b9cc99bb90a6d03040124d71d52c"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4c806d7e2bcafe89d81dce16d20160222dbbfeb3"
+git-tree-sha1 = "4bed3adaf3c874b86054d533505dfcc2d4149a59"
 llvm_version = "18.asserts"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "979892717d35fbf6d302d968472f4dccf96b8a9e3d3c6f036435305a14422d34"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "2310992294ca2459a1140cdaa95f7634acf6c8b78b50b430c5a6da63dbbbce43"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4b1675620039767135b09f03fa4a2b2f8ccdf985"
+git-tree-sha1 = "2f5309789c8a0c806759dda7c5d8efa4d6b97c3e"
 llvm_version = "18.asserts"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "2c9d94cfe0a63f115a7728ef14c0c3fe6943911778676f460d5e487872b9dec5"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "3bc83e6642e83319660fef9d0b6500a2bb15463282bdce987389589ccd33196a"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5956618302b411f0ef9706c9835d19cde8e204a7"
+git-tree-sha1 = "bbae8c1764be152cc1bcf92c25ccd6a283d69359"
 libc = "glibc"
 llvm_version = "20"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "7326b3b87a0d45cefc7d6735e73eff183d88a62e6a6283f9a96216b5facca22c"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-linux-gnu-cxx11-llvm_version+20.tar.gz"
+    sha256 = "562538076a224eac2afa19f87c33e1abbeb4a9dd968bced775aa19a16da65f5f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-linux-gnu-cxx11-llvm_version+20.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d58c9db2ce91ee422e044165578e46a61376450a"
+git-tree-sha1 = "8db1b8ceed0cb14d2b77fb81e06d5b50244518e2"
 libc = "glibc"
 llvm_version = "20"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "a6960922764347fe60bbbbeb030f57cf7695204dbea3a652b0122985298f885a"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-gnu-cxx11-llvm_version+20.tar.gz"
+    sha256 = "7d5375cc0318ee788a74f580c1006797cd87362cef4c25aef8e086388ba41e58"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-gnu-cxx11-llvm_version+20.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "98a643f9bcb22712e6fab11f490e9dc8910359e6"
+git-tree-sha1 = "62a17cbf8028d4f80e74869626131b20313495e2"
 libc = "glibc"
 llvm_version = "20"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "745c7a7b448e1da1e784f041ede69dfea8e1478963194e9fc199a2393a015375"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-gnu-cxx11-llvm_version+20.tar.gz"
+    sha256 = "d365e495b23b8d2470f4bb66d2ca6453a039375c31e4a1edc3ec89597858bc90"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-gnu-cxx11-llvm_version+20.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a6f65cf7ca775d5b618f69dd7656482dfa53135a"
+git-tree-sha1 = "28adab6accf33ed4cafb051c3bb97d73f0f420b2"
 libc = "glibc"
 llvm_version = "20"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "e950686603a390eca4a2f3517a3078459ec06ce9b749b375d4adab620bf638c8"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-gnueabihf-cxx11-llvm_version+20.tar.gz"
+    sha256 = "f613ef889e40a634a2bfb995996e98f210acf3a9813ead0fbe9d605ad8103b78"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-gnueabihf-cxx11-llvm_version+20.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "420695f4c240c9162e172a64c7c09f344fe1306b"
+git-tree-sha1 = "6bbbf23374d6993f246c8ed2c4bd7458dc21550e"
 libc = "glibc"
 llvm_version = "20"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "e2e4bdd8d09962a1f523868cf8bf6a4a378979b1c6fd50cca70c44b57f1e2e0f"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-gnueabihf-cxx11-llvm_version+20.tar.gz"
+    sha256 = "4c3f4452ef6a3b780b132d008c9b2bb6bbc0a3043e830c40caab35d849f3d940"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-gnueabihf-cxx11-llvm_version+20.tar.gz"
 [[LLVMExtra]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d89d86304d8539749402aa9e0d28eedf9692d71a"
+git-tree-sha1 = "cf9ef2680ffc52b27116617dd45d2c07b0ded3d1"
 libc = "glibc"
 llvm_version = "20"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "478dd9cab5f10fa98e8b357f24694962c38e200ba6e58aa5f8543ed76885646f"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.powerpc64le-linux-gnu-cxx11-llvm_version+20.tar.gz"
+    sha256 = "7675390a2ace207a419ddf1d2760f096c56aade46517c31b4c564885fa6787d2"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.powerpc64le-linux-gnu-cxx11-llvm_version+20.tar.gz"
 [[LLVMExtra]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "172eb234c7c42500c13d8073e4c8451ce0225735"
+git-tree-sha1 = "f396be3d4eae13cddb6988727cb6344728979ecd"
 libc = "glibc"
 llvm_version = "20"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "13d207db4d69886ec79e8377e5e4989588b2c9cf5f931ef5a5c2cf8a1d367c00"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.riscv64-linux-gnu-cxx11-llvm_version+20.tar.gz"
+    sha256 = "01fc256b398358981b70fc9ffd9d52301a39fdc13f1609b9fe1b87e7d33401d0"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.riscv64-linux-gnu-cxx11-llvm_version+20.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3d0d14ef6274b3973f9c3762f20f523fc8871734"
+git-tree-sha1 = "0c07d27a05dc14c2cc2428251f503f5e1b5d83b3"
 libc = "musl"
 llvm_version = "20"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "bd07292e8ad51f167772bffdcb1ecc7b0496d8708cced66f39cd0fb710c08598"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-musl-cxx11-llvm_version+20.tar.gz"
+    sha256 = "0ae79e39ddfb0502de272be0268b44ec2fbf7eadc09f4bca7dc93300a218159f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-musl-cxx11-llvm_version+20.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "12fc1017c35a60e8d889640b528669afe3940e61"
+git-tree-sha1 = "22ed2666287df7bf37f21cc322db118b8f9af5f8"
 libc = "musl"
 llvm_version = "20"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "05f29abaf463070232e0886f239940ee0ded06a4690f26e1c4f11239928cc9ee"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-musl-cxx11-llvm_version+20.tar.gz"
+    sha256 = "40866405cf468486baa64b54bdca79d8b97141b9c7db47ab1964771249de3f2c"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-musl-cxx11-llvm_version+20.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "92805798e87161f571a7b9cd46cab7d1d0a12bc6"
+git-tree-sha1 = "91d8c4df2038bd8eb0dac3a0894cb2cd687207e9"
 libc = "musl"
 llvm_version = "20"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "be8c5f2a841acef873f76d0034280ea875cd798e203e5884def62303814c31fc"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-musleabihf-cxx11-llvm_version+20.tar.gz"
+    sha256 = "b1f48c6db2c5760c12b2656f70fe9963beca377d94025bffbb04e50b2a65091e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-musleabihf-cxx11-llvm_version+20.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2c96329cea87fe24a87af3788bf419dd5134e578"
+git-tree-sha1 = "ecb4274ab1508fa1406845e0fd854271bf8ef7a7"
 libc = "musl"
 llvm_version = "20"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "f06843bc428414a67014fdb771e5c370fcbab3a0ed53e348560c70de3e9d7951"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-musleabihf-cxx11-llvm_version+20.tar.gz"
+    sha256 = "fca56cb091f70ee4a526c865bd48ac211ea77d936bfd707840c235cd1d8381a1"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-musleabihf-cxx11-llvm_version+20.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "ba387e5f3b622c57de7e95935852d6e495104069"
+git-tree-sha1 = "6c85b916ff3e772287047f69e86ac64de7ed7ce9"
 llvm_version = "20"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "0bb6b0fc71e50917bb0ee419af1afd988472cdd50a7f70cc3809b4b591107551"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-apple-darwin-llvm_version+20.tar.gz"
+    sha256 = "c0f5f6576ea67ffa2d4edc7cbb6c3889b6e4ced006e37d074c79dc113fb6be59"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-apple-darwin-llvm_version+20.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "e6103341275af3dbf53bd31bb98de11a0cce844e"
+git-tree-sha1 = "bc234d3af7c279945537503bd570106ffd0c0dcc"
 llvm_version = "20"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "f64b6c51f5e9fa8a74a381e84cf2b214ad7c64200c8371ee3067822350fc1894"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-apple-darwin-llvm_version+20.tar.gz"
+    sha256 = "300e83317388ffe8e8538ef42a05db55e324b137a82416687524f5f953368b3b"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-apple-darwin-llvm_version+20.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "616d47b3224d5800ce0a03ce2d814a0f4d0f7591"
+git-tree-sha1 = "91da48f7ca228d9d8071d1bf509e213fffcfec49"
 llvm_version = "20"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "f901c6c1563de34007776b01fa1a428d6c35247e42209fabfb8c52512b361610"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-unknown-freebsd-llvm_version+20.tar.gz"
+    sha256 = "bdbec2bb39b21cc66d22e15db0c293efe3474a92a017cf0b2a7f3b904416226d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-unknown-freebsd-llvm_version+20.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "2e86186c40661d970630b87377e8bbdd3e1a8ed2"
+git-tree-sha1 = "6590f94f61d8c49d3bbaf16b8cc0008a7dce6dc8"
 llvm_version = "20"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "0d200a57c7604d258b759a5e507fa30cdeffd35c10c4a2410921fa21ce3141df"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-unknown-freebsd-llvm_version+20.tar.gz"
+    sha256 = "a2b18283bd0597faa2a3d0c0e0a3b946304be4299c3744366f836e85cbe159eb"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-unknown-freebsd-llvm_version+20.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2b2310b714d0fdcca2188af337029dbf9ad078e7"
+git-tree-sha1 = "1ad91c22fbaadc770f0ddaa33863413545422937"
 llvm_version = "20"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "0c110a605f388e0f93697a313b7f609831eeedad7dc28539060ccd5ba7616e17"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-w64-mingw32-cxx11-llvm_version+20.tar.gz"
+    sha256 = "b9830dca0c2e018efa12a3b8f1288720593053349ec1944fee6f99858fd2a889"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-w64-mingw32-cxx11-llvm_version+20.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "14448f0d03a933cc771287ed0915c9223f787153"
+git-tree-sha1 = "593998e42ad3d7663073ab82a377d8c9d4eb308b"
 llvm_version = "20"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "3572e6291d5666417fe09e72ef68e13f3ce1e505c4b5be70c714ee1ff3ceab34"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-w64-mingw32-cxx11-llvm_version+20.tar.gz"
+    sha256 = "3b275dad08de1a787c3ad468d633166d7a0e283d065f5b9422ace5184454f7c3"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-w64-mingw32-cxx11-llvm_version+20.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "08c79627c0212c918485eddb7f17e78c36742cdc"
+git-tree-sha1 = "0848954c9ca5a6ecf3eb4cd53ae56645bc416bdb"
 libc = "glibc"
 llvm_version = "20.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "f46a11fd0b285f8c11fa7c799fab09a2bee059b75ca4d2cd99cc4411c3aaabe5"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "b41a925ea752239e25d1c57e834a12246dd7b648da730cc1ea5224d3d705c0ce"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "65c419c48de710c9eee340815a8d69c87b5b0fbf"
+git-tree-sha1 = "017194ff01fb53826f210827834fa8446246ede6"
 libc = "glibc"
 llvm_version = "20.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "0e26c5d3287240bf8f33b2d8af0c2995ebe230eb5effdb16a466a3fe2aa57e1b"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "ecca47d6e322e5c8e49df35726c0ddb1d955c2ae74772fd2315c1b727c736231"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e428c39120dd99e8b35f51b8719049c73a7041ef"
+git-tree-sha1 = "4bd99f8e0af02652aa7ab565bcb47abb39bac813"
 libc = "glibc"
 llvm_version = "20.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "e31dfe42efbe930859965304c94ea7c53af4dae11b628a38317205fb9c61bbbf"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "d07f820aa2b56a743e7529b1ac2dd46a2a126e6859e79720664c6dd7300f3eb8"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a09929ba13b7094b15ba75f68a49c3e846050225"
+git-tree-sha1 = "d83a2ee440629c25eba4cbefd0de635a0842476b"
 libc = "glibc"
 llvm_version = "20.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "e9c118f1590d99babdd2198e19494efbdd6c106a7b2f13b1448786521daeee58"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-gnueabihf-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "b6daa3e447b9c5283c722a6d53d9f4b4a61aa9109dd5bef4d5de8054abaa5de4"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-gnueabihf-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9e1ab178f093789db25a3902da81d4ba8907702b"
+git-tree-sha1 = "d7d35e15b7011256b973f320b72c3ed40e021491"
 libc = "glibc"
 llvm_version = "20.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "7cb53da69d06a39e6bee0936fd0bdf369838fc982009bd0a0f33f9d3cea90f16"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-gnueabihf-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "3693250dfa8fa2176dd2c374772ae2e003fe8a8efdb08a1a714dc51e0620d385"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-gnueabihf-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "badd7e16d5190b674ecc9b280cfd262a6575eb8e"
+git-tree-sha1 = "78ec5b1cd2e429bf14b8847e475d429f28011e45"
 libc = "glibc"
 llvm_version = "20.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "5d3e5ca46abdfbd3663dc07e9889927023327bee2ffa1257b352c1c07ab326c6"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.powerpc64le-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "de5fc74d2130c6324e1b9e67b658979e408672e9d91b8d5116e2689e8c6ba22d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.powerpc64le-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f6b6ab673aae03ded8f3246c2d3673e40a25573e"
+git-tree-sha1 = "adec218262142d1e34b3064d279f613fe42f3fa1"
 libc = "glibc"
 llvm_version = "20.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "c8c2074dcd314ba36e25275a92325cdac4dec49482aba2a1d86b0741faeb808c"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.riscv64-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "89dd439623eca377792a07b97f60e382870c774ed131e0439c85f869d147faea"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.riscv64-linux-gnu-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "21cb3b1653cfd036d91634748732c1db79d024e3"
+git-tree-sha1 = "fecc96e39616e682cb2901d10dcd03aeaaf68124"
 libc = "musl"
 llvm_version = "20.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "ccb384560eb4552a4c5b5bcf266fc15f7a1745007ac9b1ab3375e4fe9ce359c3"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-musl-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "846f1239dce0ab962fd497d5fb49a9805e2b92b9d8d86d7affd3b763c1c0d961"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-musl-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "68a9dbe98b1f3895684f9266dd917ab1b96273f3"
+git-tree-sha1 = "a978bd88462488af481f3086c60f7d8851f00b97"
 libc = "musl"
 llvm_version = "20.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "7ab0a8ce773601ade83b31896420db2e67e3effe1a201e4689fc6dbf409c872a"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-musl-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "e1a4e6269162725ef68c6de313d3956d79853ea967dfac1084f571c4a6b332f3"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-musl-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2ac5c8a46ab1d71c9bebb7d15fe02a01ee7632e2"
+git-tree-sha1 = "16d9b11db735364ac6f1b79db6952541f6f0c8ac"
 libc = "musl"
 llvm_version = "20.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "bb5ca90986499e7c8c2852de259b30f138212e478c6255d940e242b1e6935552"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-musleabihf-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "1ed4f95266794267e986bb56d8245887fcd9390b5a42b75c5bc677018fb77621"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-musleabihf-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d2ba4236c9359b6362de380a3cb54dbcdc8a0c77"
+git-tree-sha1 = "05faad49986d6f6a6767db107f1044629fd98ba2"
 libc = "musl"
 llvm_version = "20.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "e672e8b61b22a0bbba68a140f94be65a08e3b7d30f31d766dd39da1c7ac61ecb"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-musleabihf-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "37bc8dbb28ed6d244fd238574d835f8c95d42045f454d972fee8e3ef2a9acae6"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-musleabihf-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "511d27548a7d98386cd03937e1ea7b77b14e35cc"
+git-tree-sha1 = "2017d531df5cdfe29ab92b502df90013cf3a2d8c"
 llvm_version = "20.asserts"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "b16059344e8a400f5d41bd46066ed33ba2f50929ff30e30ca1bc3764316e0b10"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-apple-darwin-llvm_version+20.asserts.tar.gz"
+    sha256 = "f6ad437882e027a35d0efaad89f59dc73f43998a88985369934cff998752139c"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-apple-darwin-llvm_version+20.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "ec54adeb6089311c74513ee1a02e93ea02cbb4cf"
+git-tree-sha1 = "4ff853caf53fe76ec8770a243108304b988878c6"
 llvm_version = "20.asserts"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "eff4c9a584095505a3b7b09792b41524b6131fd6cb026ba9af0a55ad53c200fb"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-apple-darwin-llvm_version+20.asserts.tar.gz"
+    sha256 = "42ff590b2889e14f258e2b26d5ee420f30d7f396d1e449d987048d61d0c98cb7"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-apple-darwin-llvm_version+20.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "15a61499986d4a137c5a1bb09223ab9cf3b82f46"
+git-tree-sha1 = "42c2aed02cc310b3f84aaa5695efc65434e2ba92"
 llvm_version = "20.asserts"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "9ffa8e23d691cfe7ac695f2cafde35f69fec656cdcede6d13f2f730fe6e744f5"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-unknown-freebsd-llvm_version+20.asserts.tar.gz"
+    sha256 = "24f958ddc004a26861739b317ba0431eb7cee1f295a14a0b57259a8bc3f4a6f9"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-unknown-freebsd-llvm_version+20.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "0159b0206570f9b41e21cf33694c8057a5c05d63"
+git-tree-sha1 = "fb52433233a71771838bba019c63c489eaa01d80"
 llvm_version = "20.asserts"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "5f88f6272fc2c1e3796c5f900a7c2c91834e37dbd788bf7f8204f26e5099e1b7"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-unknown-freebsd-llvm_version+20.asserts.tar.gz"
+    sha256 = "f562da5957f23aaa41570ba7c000cf1f2a48275a075228e111f720fc424809d4"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-unknown-freebsd-llvm_version+20.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c62e1a11c04af227e12fe80054de4763adef2c13"
+git-tree-sha1 = "56d1e9842464e1feaabc61d5f1b539bc7e8bfc4c"
 llvm_version = "20.asserts"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "e3bde797e2e56a122f2bbf76cc19f4b64395473d3561b059b8b0f43cb123810d"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-w64-mingw32-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "aa012c68a86b780e16986f2616b1fb2bc404837d21b527319adf9e22e78ca128"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-w64-mingw32-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1dc944e28e71bba77825fd4fb38b0818d9ee98fc"
+git-tree-sha1 = "18dc06da188cfafc1524f316815c78d1e426573f"
 llvm_version = "20.asserts"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "df3dd4654a45f112d4554deb849fa22d4baa6a808c3397acfc2f4104ddf93f1f"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-w64-mingw32-cxx11-llvm_version+20.asserts.tar.gz"
+    sha256 = "4ecd9167a34960c0433f5ee4dec4493652a38d926ca17a5c9b111e0b90b200a7"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-w64-mingw32-cxx11-llvm_version+20.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f41538c888a90b42f18f043e3514db84143be09a"
+git-tree-sha1 = "6e812c3ac99e82d37d05622a31320af7486c9eb8"
 libc = "glibc"
 llvm_version = "21"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "95a71977a7d83d3fb7b410296d68bfe0f8b3bbd3d2fe7130c8e4c10397b48e53"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-linux-gnu-cxx11-llvm_version+21.tar.gz"
+    sha256 = "43a264819cf94eccb1995b69e836c864c0c2b22ae514998cdabf0804b0f23305"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-linux-gnu-cxx11-llvm_version+21.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1f278457d24716349b1f389b17b388a383f8020a"
+git-tree-sha1 = "6c561c419c029aa9a60d77085090373668da7aab"
 libc = "glibc"
 llvm_version = "21"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "66af374e9b7d270f897991530c8ec8fe90d31dc10360bd7573da13a5cbea8170"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-gnu-cxx11-llvm_version+21.tar.gz"
+    sha256 = "cfb5e1c276116b6312be2647c2c35206673788a1bfd1d28071a55c87d6a43c25"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-gnu-cxx11-llvm_version+21.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "365923fb422d1e9f18a64b50553d9ffad1a0c655"
+git-tree-sha1 = "b36f4ce795d77dd91929c0009d347c5ff8b2ea14"
 libc = "glibc"
 llvm_version = "21"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "c0caffbaa0f21a91c86279a456ee5e2d6ed42eda3701778f6592c0cc8a962ff7"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-gnu-cxx11-llvm_version+21.tar.gz"
+    sha256 = "470291a86ba4b09752f689fbcbc867993e49941515fb7079973e2325f0d0bfa5"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-gnu-cxx11-llvm_version+21.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4fd4d351b17cf95e47f5a935ded88d73f0d31ada"
+git-tree-sha1 = "dddab52981d17eac3e8e6c945470e97c5418075d"
 libc = "glibc"
 llvm_version = "21"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "f227143e200fed2cd908b949956569cf2188a19fe1ef30fe750690d50800aea2"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-gnueabihf-cxx11-llvm_version+21.tar.gz"
+    sha256 = "fece30ab5dc6e7b3fe4251c1492ad4a6c08fd2edd867f53dd813413075593aea"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-gnueabihf-cxx11-llvm_version+21.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a76f8da62422d35395a817b6ec41210774844eaf"
+git-tree-sha1 = "320618fd998596c4cbbba8314581f4d7e9963e76"
 libc = "glibc"
 llvm_version = "21"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "8d26b523ad899404965dc815af7af8e2de882610306a50113c5118c153b0825c"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-gnueabihf-cxx11-llvm_version+21.tar.gz"
+    sha256 = "d11ded51430d3139c90d8d6991d5a9ba0513d9cc5655a0bd7d41edbc99e74f51"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-gnueabihf-cxx11-llvm_version+21.tar.gz"
 [[LLVMExtra]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bfad90e5052277eb403d65d5bc087afbea7f91eb"
+git-tree-sha1 = "447a4750afe33fbfcd279d6ef9f260e1770af12c"
 libc = "glibc"
 llvm_version = "21"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "68108d6ebba605d32dc86f742b870985716b41c0aad85680fe99c1f05528e126"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.powerpc64le-linux-gnu-cxx11-llvm_version+21.tar.gz"
+    sha256 = "10fdba67b72012f23b74e49f78d7733d24e58e8c6c4cf4c900cfed5bad698039"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.powerpc64le-linux-gnu-cxx11-llvm_version+21.tar.gz"
 [[LLVMExtra]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d1f94754b23aeff87fa02e7cf4f049135d7f1030"
+git-tree-sha1 = "4d57885670b1069869254def156aef9c96f88d19"
 libc = "glibc"
 llvm_version = "21"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "8964afb39a65f6e45c888335017d1bbba8198d5c10f3e5891cc7bb393ce93bb0"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.riscv64-linux-gnu-cxx11-llvm_version+21.tar.gz"
+    sha256 = "244939622969adc9360ea74b8e164d277eb27640b0b9726f27280a215d8e695b"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.riscv64-linux-gnu-cxx11-llvm_version+21.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "41b98e1a7d325493e6f1b479f43c5841d8d2f6b7"
+git-tree-sha1 = "827a222c9f305b9fea1b576878622679f01c96fc"
 libc = "musl"
 llvm_version = "21"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "4ec9528094d2267ca4a706ae36ef1c1eb7040a8f1d12d9d8fec54a72b726c092"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-musl-cxx11-llvm_version+21.tar.gz"
+    sha256 = "792f26c8d2d0ff0049a1816a1de7a5764c4233099d1646e736a9571445a070dc"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-musl-cxx11-llvm_version+21.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ee59f1f5178e5f2a66dd5edc48ad8dfd3143e72e"
+git-tree-sha1 = "4cbe88355f58983c4810172d7ba9ac36e65051d4"
 libc = "musl"
 llvm_version = "21"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "30c2a8fe535c98398406cfd7bd552352852f31b78bc56436d2880d7aa3811f69"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-musl-cxx11-llvm_version+21.tar.gz"
+    sha256 = "f114ed7a466ccec79160264ea72743b83873afc814e0ed293465f82276bc8d96"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-musl-cxx11-llvm_version+21.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cd4e6480a96bc1acfe898ff7af388f338e32f3a6"
+git-tree-sha1 = "b276bb198777ddb6f91bbb16802a25f18fd62b23"
 libc = "musl"
 llvm_version = "21"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "234e879327ebc67673f4c1bbf26feee637d2c894b1561155e51ed37e60820d2d"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-musleabihf-cxx11-llvm_version+21.tar.gz"
+    sha256 = "1db49084f5f5752ae83ed64fa008bd1af5f4482226c1aa365603596f3da409d9"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-musleabihf-cxx11-llvm_version+21.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9ad2f79b68314400047b1a8944e743ff47e9f903"
+git-tree-sha1 = "af28bbcd7f130877094d7d204bdfa1328d96df5b"
 libc = "musl"
 llvm_version = "21"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "393109d0672af3b22bb285a1c17f206f3a93563154d6b98812cefd7de71546ce"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-musleabihf-cxx11-llvm_version+21.tar.gz"
+    sha256 = "0210c167c72326b9a5cbf5a80e963f0985dad2e73e58c206513bce61ff828ab8"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-musleabihf-cxx11-llvm_version+21.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "9887ed4fe4d4ed87c4722664c31d72788982ffff"
+git-tree-sha1 = "d3993da6e17e327e84db5bce20192094c5fd3040"
 llvm_version = "21"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "a0add3ffdc05c856585c4f9f1d2542b0ef281a74a81331a2665c7afb4cd9bfd6"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-apple-darwin-llvm_version+21.tar.gz"
+    sha256 = "9fbd128aa7213f87e0a2378bfccf264dd15689fe697ce29a20cfca275cc3ffd5"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-apple-darwin-llvm_version+21.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "566ed4464fc32a4e6ab3b734268d8c303302d9ff"
+git-tree-sha1 = "a6d1db86731351246ad47e908c9f601d84a44191"
 llvm_version = "21"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "d4c65ffc568d07a89deddaec127d96ec8e5eb69234773a02893fd5bc8f507732"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-apple-darwin-llvm_version+21.tar.gz"
+    sha256 = "ab36f9c0f642930f40fde51b15380263ed9941d98962ba0e38c79133b63881ec"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-apple-darwin-llvm_version+21.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "fdb0851a30012314387577fd8b31b624404eb356"
+git-tree-sha1 = "cf27dcdfe27b2c4720a9764b8e4bd9ed91c39074"
 llvm_version = "21"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "121757007c524be9c2752358c9796e97ea0ff08b57562e257ae8f46852a0bbb5"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-unknown-freebsd-llvm_version+21.tar.gz"
+    sha256 = "1ce4439c30ba8be3c0191211286ef2592564af465049bc06cffe512f34c65637"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-unknown-freebsd-llvm_version+21.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "fd683effc0ab2bc45b78234de4b0adf356187c14"
+git-tree-sha1 = "0a0901f97bf572b6872e8c141d87048885a54fe7"
 llvm_version = "21"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "6fe4e0b9d3334e41f38bc46e93f4c35ed7e76be43bc63a30da0fb77a8d8809fe"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-unknown-freebsd-llvm_version+21.tar.gz"
+    sha256 = "360c22d51f31db094a997718ab90d65bf2ead4cdd329aaa5a9207545e70b9cb0"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-unknown-freebsd-llvm_version+21.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e0328eeacfcea69af6c2f36bb1b0424959bd6738"
+git-tree-sha1 = "df887c00ba5a723a64ad60dfe1ad11671196d865"
 llvm_version = "21"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "93f82c4373e897ce91adf429fd03119706d48b96a242392b69bcc57c2bb5e64c"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-w64-mingw32-cxx11-llvm_version+21.tar.gz"
+    sha256 = "7adde3f672b7d23669727258b3d77a9db6b21476df2e1150bda7822059d3d168"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-w64-mingw32-cxx11-llvm_version+21.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5b1573b1eeaf838604456f100cfefbe44cb1dda2"
+git-tree-sha1 = "dce3b8c3585092b3dc2183f39b171bdc6a94ab49"
 llvm_version = "21"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "ce7ab68a981c47521875a985185807a1b174da8bb257d63b84f017d7c4271184"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-w64-mingw32-cxx11-llvm_version+21.tar.gz"
+    sha256 = "a6f6d83667c9c6a083b71b73b834407318f80f0a0f16c30df35259e55cbab47e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-w64-mingw32-cxx11-llvm_version+21.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d6b0ac579aa5969c1f044f05559d02453292c031"
+git-tree-sha1 = "ac74c3a05c93a132973066baf1cf5f95b266b16c"
 libc = "glibc"
 llvm_version = "21.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "a6b94b5a493a73d90db74d99627fd11664dd2f12085b75fb8442ad96770ff365"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+    sha256 = "075901eadf14723e6f43cd767d7ee20b95748ecf923b97ce779d193733f92caa"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d1a1f47669c72ec3bb08340b52068f2f4a46b7c6"
+git-tree-sha1 = "5f202a480f2a01f959ff3e1ac3faad65a0ed37fa"
 libc = "glibc"
 llvm_version = "21.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "6a3498c5d7dca6903e19b850252044655db4c02c0b12eede6f64e6c15654f148"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+    sha256 = "0b6165dfdd229f253f987028b7d925d10d64806f23a6d8b60a9d186dc7dca6de"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bc25576d27f7aa7adbda8e55691bfe33a22e2fd6"
+git-tree-sha1 = "584304b5dda85728b0ead55803f7cc1cf018b49b"
 libc = "glibc"
 llvm_version = "21.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "76476e07339e5034442f3d82761132f1e052163ceb4bec1e231703c4b06142c9"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+    sha256 = "c39d55766c353abea65ee26fa18d26fe19ac3e41da07e94d49197504d1b153db"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "605677ae9e5beea418cc77d9f9778304302dbb32"
+git-tree-sha1 = "6ffeae6c5f73e0714b771c5ad7df0528d3cb8051"
 libc = "glibc"
 llvm_version = "21.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "385be1ce5fd80724265832695812ee440dc659ec617df6b5b4031d8c19805519"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-gnueabihf-cxx11-llvm_version+21.asserts.tar.gz"
+    sha256 = "ad4cb003fd069fa8cebb96411e6b30454f6543c55f4a8e784952d52c363427b1"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-gnueabihf-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9e35c0d7d612592b61f7b7d565e77b60d1dbf501"
+git-tree-sha1 = "bb77a62fee7985c37e4b27f2d2fa60c6bfd26925"
 libc = "glibc"
 llvm_version = "21.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "b7e5088b9e5816189a26a9c061e9070673e60e3457b78703f183da4ec4872c5b"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-gnueabihf-cxx11-llvm_version+21.asserts.tar.gz"
+    sha256 = "14b9a7bb8b882304aa2f06b12d2fb4e5410e0833d141fc77fde8d95fe3f35324"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-gnueabihf-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2b01bf74de6cd684f8c980ae231bc4f7944abd23"
+git-tree-sha1 = "9c1bf9d05fa5401a629dc2f49cb8aaf3c8887ab2"
 libc = "glibc"
 llvm_version = "21.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "41ec13f8c44ba1a6b2e393861b8202ece71a68fa71b0fa2887ecce6e43cb9896"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.powerpc64le-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+    sha256 = "996c5307b7024300122c5d8256db035adefaeaf8676c08dc8232a903b71a3679"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.powerpc64le-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aefe0296f3af2df2e51489a25887b6b063b11fa4"
+git-tree-sha1 = "aaf7068dc59fdd42f939bc980f1b7fe452ee9aba"
 libc = "glibc"
 llvm_version = "21.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "67bc0cf2d8659c0e28eb7c3d1243c145821e2ebcda850db040da44fad73f280c"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.riscv64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+    sha256 = "007711bad392c3ab140f2ae237afa304976a4195babe9027a3c8556f8dcca594"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.riscv64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "61332b6fcfb74520e2eb7f382fbda73cbff520e7"
+git-tree-sha1 = "d13f6bb1400e555aace280c23fd748079ca57047"
 libc = "musl"
 llvm_version = "21.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "978964821560de588b78127bc0957a16d633b520d78587a39b04a8eb575f3d5a"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-musl-cxx11-llvm_version+21.asserts.tar.gz"
+    sha256 = "1df75b69d13edfee39469ef1dec1e238ec18afa117c972a5704bfd80e27995ac"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-musl-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b931203ab7f13468a76fb3da3faaff31749465f4"
+git-tree-sha1 = "9d401ddb7bd29a51a8b21cbf4e5f52b504f4f1ab"
 libc = "musl"
 llvm_version = "21.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "4e071d0d30738be4f77fe745e7838bd1ff4195de13b1bbca94e62c32e1fbb4bf"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-musl-cxx11-llvm_version+21.asserts.tar.gz"
+    sha256 = "c78725ed94abd8395452825515ef2259603e8de6e74a33e96e2b059494a46739"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-musl-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bf05400f7242d748bfc88ebc577bc7bb3e449cf0"
+git-tree-sha1 = "96d1d3127523150f520c31ab46da95bbad252b68"
 libc = "musl"
 llvm_version = "21.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "637794e2b9be549546d950628db046ad56ccbe0beb53ca79fc50f4e1522589d3"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-musleabihf-cxx11-llvm_version+21.asserts.tar.gz"
+    sha256 = "d8d2be17cfa255fa230a9aa285d7305ebf3460b3f1d95b957b0febf6a481b598"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-musleabihf-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "733e426a090d71503dc14bc50cd7948c30ee1a8d"
+git-tree-sha1 = "03c4795074a259609a1f3d66349b6c49e34461c1"
 libc = "musl"
 llvm_version = "21.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "37dfadb95fcd600aafcddec9f5ff7f0804f6921e4e7f5d2dbca6b0be6e337d8b"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-musleabihf-cxx11-llvm_version+21.asserts.tar.gz"
+    sha256 = "1752e09e68989ab696cffe73335338168a7fc6687f6291a7e64c912784dcbc1d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-musleabihf-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "0bdf2a52f0641a49b39d3c0e361d5127519ab5ce"
+git-tree-sha1 = "7888cac0e15287157325c66eac103f5592c147d3"
 llvm_version = "21.asserts"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "d0e5c0d668fb0d8de4647c5829b599c6000d555f125ec8cd1747848622a76c3f"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-apple-darwin-llvm_version+21.asserts.tar.gz"
+    sha256 = "b763cd2dabd5191e86139ee4c1013ee1a7fe04aea844c1f52db82f411a47b498"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-apple-darwin-llvm_version+21.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "367aa867281260f3568850b7d88f5646cbb91b10"
+git-tree-sha1 = "d02fa7a9e4b48a468e285e8ecf95e9f2077af031"
 llvm_version = "21.asserts"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "bc5ca331afae205d06f9abc63dee27a1887d1dbe044d666d42c8ef451fdeb335"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-apple-darwin-llvm_version+21.asserts.tar.gz"
+    sha256 = "7d30e68439bc365920677a64d105064098dd781283051c16e6aa0dcbf6e5b429"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-apple-darwin-llvm_version+21.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "3e49c709fcdc537fbd5ed6997c2172b987c5ae03"
+git-tree-sha1 = "786f07820f17b8e30a51a9c91e1188bc5886bd72"
 llvm_version = "21.asserts"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "c7a0d63579e61ce63b79f9c726b1a7dee411e93a8895e97d2ba0577787b607b6"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-unknown-freebsd-llvm_version+21.asserts.tar.gz"
+    sha256 = "f59cf76e1541a9d4967ced1b5cf4fc9b26e5a87d803a56b3d284a26fd89060ac"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-unknown-freebsd-llvm_version+21.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "8d1ad459878b9d2a9910720f7cfe30ac784aa908"
+git-tree-sha1 = "dc7a2d80e675c395907d354b649e7c8d52fd47c5"
 llvm_version = "21.asserts"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "2e46cb091720f224c72889451702ff1772e116a642211b98a642bc569a648eb4"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-unknown-freebsd-llvm_version+21.asserts.tar.gz"
+    sha256 = "3ddeb0bfb97af89a569966a69b65788a0663b8cb45eab6885b45f244edd156f8"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-unknown-freebsd-llvm_version+21.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1ff443734e24de9c290c0f2dd4684230a2809190"
+git-tree-sha1 = "9c71ef13a65317b913f1cd829e8481293baec179"
 llvm_version = "21.asserts"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "e685949cfacac482116b719b8414bc21726b0366f99054790a02214acfe069a0"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-w64-mingw32-cxx11-llvm_version+21.asserts.tar.gz"
+    sha256 = "82f320ba1ef3c67035003482f340942c782295d74799bd794c17805d2a9a5af6"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-w64-mingw32-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "888c7050a5dbcc69035f09a93dd3f97142733118"
+git-tree-sha1 = "4a73076f0e9c1323cc1b501633e5f072d0822f91"
 llvm_version = "21.asserts"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "4d56f5a10c6c7cd5d751369162008de135fdcf2bef58158e2ce9a9fecff263b5"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-w64-mingw32-cxx11-llvm_version+21.asserts.tar.gz"
+    sha256 = "d56cdb77c0f22fb96e05d20c98685138c948d8fbb3621e3e31a0f4f5162211e1"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-w64-mingw32-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "db3b250a24d5afcabfaaf19030281aa9eeaf8bfe"
+git-tree-sha1 = "d34c4b52ff7dd40ff6f5a7da6a53ba89643680e2"
 libc = "glibc"
 llvm_version = "22"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "158335bc5a8172b7aa4629a7667914e5060d5942e7a86a8f05aef60870027e0c"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-linux-gnu-cxx11-llvm_version+22.tar.gz"
+    sha256 = "ce9c94f53cec3cf7ccf38dc74ed4949d082aa546fcc930bb2e76e5a179cffa97"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-linux-gnu-cxx11-llvm_version+22.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "833771495cd2241e22f53282033f9dd1913bee07"
+git-tree-sha1 = "16da298da59c257d770a6359c7ea2f80ac453a09"
 libc = "glibc"
 llvm_version = "22"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "bfa6e428cd48a989b2fe9fb5f2740de3a9e16583ac7fbb9fafa222e69ea62e4a"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-gnu-cxx11-llvm_version+22.tar.gz"
+    sha256 = "564bcdccb62060123efb379949d8c36b9b2097146f90fe5bdb501be217eb6d0a"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-gnu-cxx11-llvm_version+22.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cb1fef30608a403b6b4d7efde625142b593d8223"
+git-tree-sha1 = "41b9ccdcc774dff1f472d85b4c8fca624e11c967"
 libc = "glibc"
 llvm_version = "22"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "9ac8882bfcd8fa0bc94e348498e044462295bf32633b316d260060d29d465ef9"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-gnu-cxx11-llvm_version+22.tar.gz"
+    sha256 = "8f0fc115c38fd11b899c07eb4d0d3b1d4ea5afc93aaab1023eba7c99590df51d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-gnu-cxx11-llvm_version+22.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "89d42f6581ecd9d4fa0dac180851af29e9538c7c"
+git-tree-sha1 = "6806d64d58601e904cb85173fa392fce0040aa0f"
 libc = "glibc"
 llvm_version = "22"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "822c5aeb76e6ddafa160b10b4097f978495bf3bdbeee098f301d1d4b0e869cbe"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-gnueabihf-cxx11-llvm_version+22.tar.gz"
+    sha256 = "ce49f3922abcd50596029039ee96be2992f7b7ab2f9ed226902cb50448472701"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-gnueabihf-cxx11-llvm_version+22.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9d9664ed75e5e272d508dfc86879a7687efb4a27"
+git-tree-sha1 = "c79e8dc6ed3e3b7cca4e7236739a9e99e354b8b3"
 libc = "glibc"
 llvm_version = "22"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "bfe2dc56d2ee8a86f934a96182159ccc1e98629b65395f744573d5f01ebc826f"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-gnueabihf-cxx11-llvm_version+22.tar.gz"
+    sha256 = "2b3b58a99712ef6df35c43d9e4ce995b33afd0e998540cc7c023c808522a2c31"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-gnueabihf-cxx11-llvm_version+22.tar.gz"
 [[LLVMExtra]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "18dde50eb7ff9f93db74ba2ce4007c9557d39bab"
+git-tree-sha1 = "fe621d2d3de99ed16c5b5222cc53c6839d369d04"
 libc = "glibc"
 llvm_version = "22"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "68674b8652e0f6cced1536f903976bf0f91fbe28a3e8ba1c5d968c0695e743e0"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.powerpc64le-linux-gnu-cxx11-llvm_version+22.tar.gz"
+    sha256 = "4f885e48e06e120b212cd4a55930c7b9347a2c731e90654f951b6d8736c3d4ba"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.powerpc64le-linux-gnu-cxx11-llvm_version+22.tar.gz"
 [[LLVMExtra]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7373134c75f500357ebff23755e99b2fe5578074"
+git-tree-sha1 = "53170917425fabb38492be249bb30f70a4ff2975"
 libc = "glibc"
 llvm_version = "22"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "1d1b193c721ec27781b96227605b4efdddc19ac4859d0def2eaa2a2082d6f0c3"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.riscv64-linux-gnu-cxx11-llvm_version+22.tar.gz"
+    sha256 = "ec941830968cd27fbdb79a5094386283b8f225d76218ec5af01f6a11807a0ac8"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.riscv64-linux-gnu-cxx11-llvm_version+22.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "568996ec3926b0d65095b268dfd6c76b49f0b7e0"
+git-tree-sha1 = "18743705489c8e2f23d283520a8ddaa98c5d32ea"
 libc = "musl"
 llvm_version = "22"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "092da6c47b9505975e286419e48ba20857a2ff56e86bb116b09f88fe7334fdce"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-musl-cxx11-llvm_version+22.tar.gz"
+    sha256 = "6024633cdc738bb1fdbb47188b4ae4ec95c71caf958f955f3074a05e8a8e7a2f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-musl-cxx11-llvm_version+22.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7a7caad354d75060a1b62f4fe33028c2c91b442b"
+git-tree-sha1 = "6648d8b1d81247c6be847543ced05b06d0eb49fb"
 libc = "musl"
 llvm_version = "22"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "d0d018fb875526b4eb9ff3fa19e271d0cf3245a853d27516fc08ef5b800f2a36"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-musl-cxx11-llvm_version+22.tar.gz"
+    sha256 = "f7af85707e671d5bdcd267b81152fb8ac731f74525221a73cfcdc1fb333d4880"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-musl-cxx11-llvm_version+22.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "90fb44888dc553afa5ad6373a8eef9272fb69135"
+git-tree-sha1 = "942b81cf55ad481f583d60cae977b4545b5711cb"
 libc = "musl"
 llvm_version = "22"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "cebad3bf4da963256045455f616cbb79fe227cdabe43ecd64cd16c00c69d213c"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-musleabihf-cxx11-llvm_version+22.tar.gz"
+    sha256 = "a9e1dc11f7850940b85c023bd1d86caceb431a53f142cb09cc12c4ad6c72c295"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-musleabihf-cxx11-llvm_version+22.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6f6348fc85aa3f531303da418b196db47f64835b"
+git-tree-sha1 = "f1333fb4c72d88f9b224200d83a1439d029ec16f"
 libc = "musl"
 llvm_version = "22"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "d4195a9e51086b4805478a66e45e4888f283df0730dc6a4d1d9c7e57d0c4ebad"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-musleabihf-cxx11-llvm_version+22.tar.gz"
+    sha256 = "5b3b08730e3c29cc9e3427bfb3b0b4d90c0dc1bf07ef3fc2e16e2893e8903a88"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-musleabihf-cxx11-llvm_version+22.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "7e3fad803e5e24bb41ae648b32277ea3205d19f9"
+git-tree-sha1 = "57c89edd39ee003e878125ab9c0c08bf4aefee1a"
 llvm_version = "22"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "f07c291ab181990a125af4f35ca3fd631ab4885dd2ee8c31f3d899650b92478e"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-apple-darwin-llvm_version+22.tar.gz"
+    sha256 = "38f27d1ccff3bbefbfc54f3100bc6ccbffbaf5e85c0de9fffd040329c77705f2"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-apple-darwin-llvm_version+22.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "4a3ffee7a56ec277353a948516fae75f10d384bf"
+git-tree-sha1 = "49538b4cf1e10371df6eb91bc282d4ec8655b3e5"
 llvm_version = "22"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "70b5ba320b39b544bad3b01562f5e4a78030255fb75d2f9d8c0457cbaf8858d3"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-apple-darwin-llvm_version+22.tar.gz"
+    sha256 = "c3ec705f2bd318954c426d74e2ec8c5a445031ba8110e650a41712603d0618bf"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-apple-darwin-llvm_version+22.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "8e192824bf5ffdba7af8fa1ed303dbdf7167c24f"
+git-tree-sha1 = "a9f2ce5eab4effa57113985cb005c76f7f468219"
 llvm_version = "22"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "b5150050366058e51d40e306c941e463b2d45c91de9231d3db8d10764f05089b"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-unknown-freebsd-llvm_version+22.tar.gz"
+    sha256 = "63b37f617bc49bb6e201d131677cc7b37a49b2af90c6da5081d8f87b62617794"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-unknown-freebsd-llvm_version+22.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "b3ef61a0b84f9b51def37c7ba3e6fa73cd6a13db"
+git-tree-sha1 = "b0787d078705cf7152df8ac72d34120a5f287077"
 llvm_version = "22"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "4a54fc5f36b8608f3ad7c59226b8ebb72527c1fa81519beff45ad4cec1161744"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-unknown-freebsd-llvm_version+22.tar.gz"
+    sha256 = "b5456163d90516894024fffec88c171239fa6ea5341333a44ad575cc61c14aed"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-unknown-freebsd-llvm_version+22.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dd6e2eb0ffeb49b49bc3411f532bacee868d595a"
+git-tree-sha1 = "3053629a3a61ac446b402a2f65723896bc77b3c9"
 llvm_version = "22"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "3ab8f9cd70d4b57df172c44b21fad587fa6749910f472814466e401136288981"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-w64-mingw32-cxx11-llvm_version+22.tar.gz"
+    sha256 = "dbf0ab0c854fcefb495ed998621461371c2b4fb0b012bd964ea32bbd8c1b3425"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-w64-mingw32-cxx11-llvm_version+22.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6c264c4647ef1993a93125105759968698eb0654"
+git-tree-sha1 = "4572013376d29a2a89d9d5c90a97a771deae16bd"
 llvm_version = "22"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "cecdbde53961e603ed88ae3aee2e2bf7de9d4a8726859aeff232db587df8b4a5"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-w64-mingw32-cxx11-llvm_version+22.tar.gz"
+    sha256 = "9b9056a421bb0fad5beb1f8abec74bc6c27f422c335d6c32553abcad1f58bb72"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-w64-mingw32-cxx11-llvm_version+22.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "096b4e380b2ce74cb8f04f8a60da7b4564355bdb"
+git-tree-sha1 = "097ff92daee30cb1431ec3bfb50bbc63899fa86e"
 libc = "glibc"
 llvm_version = "22.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "ee40ef1df35379b9de1472558bf211c438806e058fb201a5d1b125adefba121d"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
+    sha256 = "b8c3db6310098298f0142f0618adaf7603586b81a6b4e7e7624dee8229b19989"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6af7e2ccb4dbb534bdb4a58127cef58a85010e68"
+git-tree-sha1 = "1e2a917327743d431d41eec431e51fb8857d598d"
 libc = "glibc"
 llvm_version = "22.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "1760cfb96c04ee3c6c0ef354da55c0055c0d12857c8f0621c165e64f54254011"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
+    sha256 = "fa4fc00249ecb4783bcc039c8bb30d9437b1e4629ebe5ac72ad4020fb1138ff2"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2a9c20515924b87a14eb69a05e62eb0f7668cc97"
+git-tree-sha1 = "bcfbad0ed7bef7b7810e63342d31ce4ee0ba0e37"
 libc = "glibc"
 llvm_version = "22.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "62532c85c1c659b7b59cd8fb403682238fdb2e6db7c987f0298d8de1c3670ec3"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
+    sha256 = "38fc43577bb07b0878adf73e19a45297673de46efa482da76949d365da4a4f9d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e3b053f45b6010f5d9f857836aacf15ce4893a2d"
+git-tree-sha1 = "e80524269d7fde4a505843de779328d844177509"
 libc = "glibc"
 llvm_version = "22.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "306e68c9807cb42771f4455dd0182e95474fb937c353f71a5f0d67707150750a"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-gnueabihf-cxx11-llvm_version+22.asserts.tar.gz"
+    sha256 = "3d7dfd1470f001abd018058f07fdff72bf430118b6cd0f2249765bb711c130f9"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-gnueabihf-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "798a4b0dcaa7d7c7bba6afe09a312e841025f633"
+git-tree-sha1 = "0a8eb9e6050e7ddd11e97b5aeddcc332bf7ff26a"
 libc = "glibc"
 llvm_version = "22.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "a1be6571bc5a3737b796dad1c7b5097b444246955f6ebd47739d104599a7276c"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-gnueabihf-cxx11-llvm_version+22.asserts.tar.gz"
+    sha256 = "f0989c67852cef0ad748633e9ef5ff05b6e87d6f9241bceb8e69b3c454ae5e73"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-gnueabihf-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e9f785449ea9528f8b4aa439fa82c39175dd78c9"
+git-tree-sha1 = "ca7ed9cf7ba702159087ced89da36e1a217dec37"
 libc = "glibc"
 llvm_version = "22.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "88b6a2858da55e1b1ba15c25158b92ec56f8d5815eba981e59f2391b7ee002b5"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.powerpc64le-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
+    sha256 = "e916b7f6786d84732efd8a8379038cb3943bbd161905c551e4f47a346074eea6"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.powerpc64le-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4283ee9104ab738daab4983ffc3ec5d5cf466417"
+git-tree-sha1 = "68c81297957f4bbf1ac31bdc0ec0db096dd22d5f"
 libc = "glibc"
 llvm_version = "22.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "d3754962ebae6c075b30bb406416c5915d036f8e23ef74f02ba52c019a44ab44"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.riscv64-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
+    sha256 = "c74b1808795286b9baa9ca9d489874620e62b74af54f2e133c333453c836c4d6"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.riscv64-linux-gnu-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e7001c1dc21c4ca4f8c152e604f18edc63b6a92c"
+git-tree-sha1 = "ec60981a8ff6fd431026874df155cfc1c58464a8"
 libc = "musl"
 llvm_version = "22.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "ac95e049914f31e82a6e02701ddef46a781d28002e150a7cea106b8da86039f0"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-musl-cxx11-llvm_version+22.asserts.tar.gz"
+    sha256 = "215b86aab014828fbe5d39d0ed48b0487bce96d413e4ac4be8fec3ccbcc2039a"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-musl-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aaf40d37795bb8c620ab7472f20b2a5eb87df255"
+git-tree-sha1 = "bee5dafa99150d8005d9aedaa22ded19ace7df8a"
 libc = "musl"
 llvm_version = "22.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "455e820a40f6d912f09d54e9ff8547cb0da03f0ec2fe16956d6caa1fe7163f46"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-musl-cxx11-llvm_version+22.asserts.tar.gz"
+    sha256 = "ae8b82f0b5e2c7cb77411584e24de03519a74c7f4e9b165b0df3fac6df18892a"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-musl-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "55cd2119ea99b054373853157cb8afc34c948ce6"
+git-tree-sha1 = "855bb8a6d4780b4c78bfc5d2ae02daeb66f0498c"
 libc = "musl"
 llvm_version = "22.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "b5779d69afa899c56ad7059268ef2cbc78e12b41a4c9a32670f13521c57ed190"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-musleabihf-cxx11-llvm_version+22.asserts.tar.gz"
+    sha256 = "5eb4cf261bfd6d9c4bb2cfd85ba571c74e667992318da8d45f8f514d6ded7e22"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-musleabihf-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7fbb8c3ca2f7bd41d8709eef99b02ba4b0c93423"
+git-tree-sha1 = "739a5f78b913775638e36f9a84e91b443875cd10"
 libc = "musl"
 llvm_version = "22.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "96eb618a644638c59b1bb81c183a4b8c670a6e19c6c21f159b558faa6aaa0211"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-musleabihf-cxx11-llvm_version+22.asserts.tar.gz"
+    sha256 = "062b95d2275fefc3f993868048bb10f3b54fdfb74b069f5c0578eccd3e75e9a0"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-musleabihf-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "9a1b19111014129f4a7d435dc184e68f197f0361"
+git-tree-sha1 = "caa83b870a7506c79e1486064b06e4316fd6708d"
 llvm_version = "22.asserts"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "f41c75152761b7371160fef0f3e331cb18fa62b391128b13f3cc933014d29559"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-apple-darwin-llvm_version+22.asserts.tar.gz"
+    sha256 = "f6bdd76236309975950d18bd9c9c8356f73eeca489050bdcb2633a54d28b334d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-apple-darwin-llvm_version+22.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "113055dfb4b8466a349e927ada7e4c089632a59e"
+git-tree-sha1 = "194a92f2b182da755131030840316c77cba31fd7"
 llvm_version = "22.asserts"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "d2c110f4de1bccdfd5e764ccbd75269c61a9cde409a0e05a05a93beffe3c6126"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-apple-darwin-llvm_version+22.asserts.tar.gz"
+    sha256 = "451cda192b228e0ef991e724aff5d133eb8d8969a27904eb5160b9e9b03f5b1a"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-apple-darwin-llvm_version+22.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "02d6f76403b92d5975d999120bd832d265fed729"
+git-tree-sha1 = "a730c5bb95a516c29e76501cc5e55d254d3fd7c1"
 llvm_version = "22.asserts"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "e9cb1e69d2d025cb0896b6e195325eb3ec8e9147043dd10833f819b051e0390a"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-unknown-freebsd-llvm_version+22.asserts.tar.gz"
+    sha256 = "4387507a223cccc0860e9a6e9b623c84e6ba8721486c14401fc062fd1910f48e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-unknown-freebsd-llvm_version+22.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "fe6301484dae46dcc475d1874ff78f910e29c7aa"
+git-tree-sha1 = "f20e5fc747075ec3c994e20ad08c2f971559e9e6"
 llvm_version = "22.asserts"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "fc9c7a82e46b692f0395854740de02beb2359b7d6b274b0edf6fb5006373cd2b"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-unknown-freebsd-llvm_version+22.asserts.tar.gz"
+    sha256 = "f904b685d4ed8a6670f455fbe4ce65cb0785d79f71dfafa2c9af92fa932c59d6"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-unknown-freebsd-llvm_version+22.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c40d24b75eba90f649f4518cc4537a6d563721ce"
+git-tree-sha1 = "700f3c203e836faf6a72dbc63a28c7353f0c1167"
 llvm_version = "22.asserts"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "50413cc2a6f9a98df6e8cfce3618631e90498a3f4599421f6ac091c8240822dd"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-w64-mingw32-cxx11-llvm_version+22.asserts.tar.gz"
+    sha256 = "b0a913013756705d8b51b6570b02990f99fddb37f8ee482e7df6e25770bce43e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-w64-mingw32-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "43d0cd2c2f31a5cfc17ae9e1ceffdca37f425d0d"
+git-tree-sha1 = "b2f32f2f5a6fc705cb70a56233875cb7885b0666"
 llvm_version = "22.asserts"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "4288b10af0bb91a897775050327d1ca8915250e0e76acf4d3ceff48e8699fe1c"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-w64-mingw32-cxx11-llvm_version+22.asserts.tar.gz"
+    sha256 = "57442341f4970609901b18ba1066a4b70b81b8ba3152a462492160431aeb8a1d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-w64-mingw32-cxx11-llvm_version+22.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5f8976105ee6342df08dee67ac4d4bc4ae2bc8f5"
+git-tree-sha1 = "5f76bfade8d9f12fd2e22e348dfe190164beb08a"
 libc = "glibc"
 llvm_version = "23"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "7219bee6e3b67f8e7ce1270aafa1845b17990e0ab6baedebdb3c820fb8e8b7bf"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-linux-gnu-cxx11-llvm_version+23.tar.gz"
+    sha256 = "fac1adb37cfb05e92983214a4ba2d2d02d1cf3c9bfd7c0bddfb7dd920e182c9e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-linux-gnu-cxx11-llvm_version+23.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ee06b0f8fdca9c9ba1bc4cd7f037abc67d348a41"
+git-tree-sha1 = "67912a64f474e8c12871a263411501be806e432a"
 libc = "glibc"
 llvm_version = "23"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "ab3b5180e68f6b66ad762a15664a92f77fe3f4b9289258668ad5356f554a74a9"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-gnu-cxx11-llvm_version+23.tar.gz"
+    sha256 = "f7a6e68f045aa70c7715849f062530e7f6708bf802487cbcc1c207ae648bb259"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-gnu-cxx11-llvm_version+23.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "53f7235b64c57d451f38a350383bf74841568358"
+git-tree-sha1 = "bee97a257ad6c3cc19047cbc24d0495956f67905"
 libc = "glibc"
 llvm_version = "23"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "82757afd2fbb080e657a4c408b119dfab469ac5818f79b1582ecdf889ab79489"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-gnu-cxx11-llvm_version+23.tar.gz"
+    sha256 = "d9f21764549022e9ddaaeceed8d5f861786c69165ef2e662d3cf672d8c940d76"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-gnu-cxx11-llvm_version+23.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1ef32fe5dfc20dd8707680227e64f7449275f91c"
+git-tree-sha1 = "137081c79faa082b437bb7b2f497f07f03014c52"
 libc = "glibc"
 llvm_version = "23"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "ced9d1ec05fdf950df19dcd1f908dcbc0e8de8be4b53dc422dd424db5812de25"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-gnueabihf-cxx11-llvm_version+23.tar.gz"
+    sha256 = "36213973faf38d888487132c25e8c7c3020be3b198dd0244babc9918a44af4f3"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-gnueabihf-cxx11-llvm_version+23.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2ebe08c6e8c9d6881808420e60cb02a390139cb4"
+git-tree-sha1 = "c35dcb91e29be4e57297ecb131f53e21253eb01d"
 libc = "glibc"
 llvm_version = "23"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "7f257a8527fa1e511434439d2f9e11ff8723298d339fd28c4092b40b92f348d5"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-gnueabihf-cxx11-llvm_version+23.tar.gz"
+    sha256 = "f04d72accb0a15ba34431f8f358bfe9468ad3d24629b8fb5e62f6f7a3a2d0df3"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-gnueabihf-cxx11-llvm_version+23.tar.gz"
 [[LLVMExtra]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "78e00c3ca3d18d6ce2cadf2955c2b0f35f81c584"
+git-tree-sha1 = "7bf22f3ad2467aa05879625d325bfe19eda81708"
 libc = "glibc"
 llvm_version = "23"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "11887b34615a639c5846d9f3f276e0d44aabe0196e6a0e867dd1f8f40a3a1919"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.powerpc64le-linux-gnu-cxx11-llvm_version+23.tar.gz"
+    sha256 = "3f139e05fcf106cbcc0079da5096c79f100c46c7bcfc0ea2ea544e56bda0ae1a"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.powerpc64le-linux-gnu-cxx11-llvm_version+23.tar.gz"
 [[LLVMExtra]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d5a58e62e6e384fab84f59ca8c431e6ff09fe687"
+git-tree-sha1 = "9ef0d3a287c6fd2d564a4620a5b6167b487eae21"
 libc = "glibc"
 llvm_version = "23"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "2927853b59963f69ce077f6c65328889d5c88e6d0b11a33a19c30d758aee90c0"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.riscv64-linux-gnu-cxx11-llvm_version+23.tar.gz"
+    sha256 = "d383ea1a87298e1fdd1623ee80360088de26acfcebf852d3ec359c21adae4af4"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.riscv64-linux-gnu-cxx11-llvm_version+23.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "73eb7fc74baf104cdfc643c25e64abde74b9170b"
+git-tree-sha1 = "6265b6657976061c09d0533671722096af2b78e9"
 libc = "musl"
 llvm_version = "23"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "6e395210aa6e56fcb4e8008a90d3cc5dd8a64e5c1ccc1bf88a266fa7e2888842"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-musl-cxx11-llvm_version+23.tar.gz"
+    sha256 = "aa3bc1ae1a609e066f3b3cf6bc9045f480784af33b05cc43f6c8fd7dfc7969c8"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-musl-cxx11-llvm_version+23.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e2c0e3d10ba92b3c76522e5aeaeae49decf1a3be"
+git-tree-sha1 = "5a1bd2847f4eb8100f88af98676cd69ded3f5c3b"
 libc = "musl"
 llvm_version = "23"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "ceb4a6994163908a53b37ba30b4901d9bbcea89b0d6285c5d7801e0ec5c5b8ae"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-musl-cxx11-llvm_version+23.tar.gz"
+    sha256 = "378895ad4769e392f7e270305f8cfb1e671108365808764bbfcf369cbe73dba9"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-musl-cxx11-llvm_version+23.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2df59bd2d5d5b4d027ee535e46127e2fdac7458c"
+git-tree-sha1 = "aee79f0dc03aa3f069fbeaf09cbda4e60590920f"
 libc = "musl"
 llvm_version = "23"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "f3af96228a6507f262642b45ca6795ccd68fb0a0c87725fc68897ccf493ce6c7"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-musleabihf-cxx11-llvm_version+23.tar.gz"
+    sha256 = "7e3d782b2acacb02e96050211cf74c44cb4e573e01a7e34b0bbfe6825968f7c7"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-musleabihf-cxx11-llvm_version+23.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c52d80ef24d786932decd30d9e7c380ca7366efd"
+git-tree-sha1 = "228785e3e4bc15da9c5609652286f0f610017521"
 libc = "musl"
 llvm_version = "23"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "fadbd9da3bf031c9b6d1d5dbb109c9d51999d28ce5db842a634f483be6fcde73"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-musleabihf-cxx11-llvm_version+23.tar.gz"
+    sha256 = "b229e1a2e564e1f1a48af9b1dc7682ce362896409b3f6b7dde11c6a342af2357"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-musleabihf-cxx11-llvm_version+23.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "5efd9fa5b6c65df24e2b61f342f28072df09d954"
+git-tree-sha1 = "e0b6310d425463f17ca2bace24770eb4b347169d"
 llvm_version = "23"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "6a958a6d3bd28ec4d07fbe340256a9e1711c2b78db4907f9f5378c742efbeb3f"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-apple-darwin-llvm_version+23.tar.gz"
+    sha256 = "fe5ebded4807de789326c81af36cdc8799d90aa420d347619ccff229f3bc5965"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-apple-darwin-llvm_version+23.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "1884a2818023af052225fa660f8ae231df85ecb8"
+git-tree-sha1 = "0c36e0d812f6678fd8f78503efbe7056700d2fa9"
 llvm_version = "23"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "199100b7106173fab1a6d4cd2ae524e39dcdad0097f203687f5b68a00009b8a2"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-apple-darwin-llvm_version+23.tar.gz"
+    sha256 = "3cf40052697ce78f44af6b307da42f1c1c3824b1f5b43a969114283a08d0d775"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-apple-darwin-llvm_version+23.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "0fb7d0b15ad8ef7cf97890202b951d93590fdc6a"
+git-tree-sha1 = "2e95fe64af6901a67fe19790f517836688547173"
 llvm_version = "23"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "d5b7574e51e7cfaaf544b9b1d2c1b1eb69786cee76df72700bca46c4a22d4370"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-unknown-freebsd-llvm_version+23.tar.gz"
+    sha256 = "c6fadde35265e63372ca0c9e76e9c262cc9fcf175cc8005fe08a4ad9532b8b3f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-unknown-freebsd-llvm_version+23.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "63f2bd1b0fbe4b57d5d9c73828e429f8ad654a13"
+git-tree-sha1 = "98d493de0851f02cc4d32bb9edf86eef9323bd01"
 llvm_version = "23"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "089712eef546641ddd69c1e86fc23029ab7ba5f508612a37e5aba4abf0f6c268"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-unknown-freebsd-llvm_version+23.tar.gz"
+    sha256 = "5ef557ef55501a06e29b5e117e2ff272991c16b505d6998d37f1ef31030a2f64"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-unknown-freebsd-llvm_version+23.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "28da5a3ae207db30dd83a1bbce07166144af5dfc"
+git-tree-sha1 = "d09be832c340d0f22a8dbbd8167f268da1d3973b"
 llvm_version = "23"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "d578b1ad7ef92bc99c4332b866e3da2c9bb98f5431460db222d8af3e418771c5"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-w64-mingw32-cxx11-llvm_version+23.tar.gz"
+    sha256 = "6231bebc386758d7b19df7a196429b941c9ff1cc01858d7adc96a04ca1d7db10"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-w64-mingw32-cxx11-llvm_version+23.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7d61a20c372a939cb3a1e7e408908bdfe00c6b11"
+git-tree-sha1 = "a8ce3e29569a47a5cf0b651ec793e52e9bb208ed"
 llvm_version = "23"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "bc27b287eca0d3e8f91256806ad362cebb5c36971040f3ead58aa7a93c490e5f"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-w64-mingw32-cxx11-llvm_version+23.tar.gz"
+    sha256 = "e6c42040123de289abd2d7d7e59deb743f26679937e2c0b66b3ceb4d748029e1"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-w64-mingw32-cxx11-llvm_version+23.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7eedd9a3c9e315667866b82a85d6a596f58894e4"
+git-tree-sha1 = "1fffee64ac3521fc6a4c4dfdec5fd673bf0ed6a1"
 libc = "glibc"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "610725518e74f71efffd071832e70c9d7225aecd412e57b1caf7a3bd8cc29c70"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "36e1f67ec90f3f4711872a0aa714c01145c5dcba0fd24689f434771bf0bc2266"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "17e0037cc1fc602020b9487507ac28ed190eaf2a"
+git-tree-sha1 = "84318be8094f9864a4d4c3f3320e7219d6b1af6a"
 libc = "glibc"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "25a52411fdf0651f185f06f0e1639f880bec2835ef396270d5d93c8c186fbd69"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "f96a93ad09f65958335119d81a02fc2dac241e8c29477148aef385f7ee8949f6"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2910d0141e051d81ef21f7bf0f73bc961dc267aa"
+git-tree-sha1 = "31ac98dfcc3a3ceb763f3c9f3a194ac8f00c4c20"
 libc = "glibc"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "e3cd7c56b9a363402571aa4e5f2a79d07494d9982fb6c518ad8df96f531d39cb"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "7c9075e6c844f1985453a00667074e3763a0d47544d0b300ee392bc0717735e2"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b9d67ddf3ef3caab5faed9cce89cc4943ae5ab85"
+git-tree-sha1 = "d8ba86e5e044da2f89601dbd172c6005169e864d"
 libc = "glibc"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "d31cb9c267c3fc8d5a66cbd6feb7a09e23d63373373c0968c489063b4db705f9"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-gnueabihf-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "46789fd066fdd44acb336126d53a712eedac4b46173459c5d20dec427e7d18cc"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-gnueabihf-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "31a0d7ee5289c8f85a51fba49c087ece5d217b11"
+git-tree-sha1 = "18f4e617c0e166ccb130bfaa78f52a16a4fa7ebd"
 libc = "glibc"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "b662f4a9257fe5cba558b1ee0fff06e1b8b1a0cb9eae9f1c59c18d4581b7afb8"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-gnueabihf-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "05643fc20c6051c739230de05fed5ad02d62d457ae7d7b085ab207db5ead1ecd"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-gnueabihf-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7e7b8756db7c4685794f644a864ac4bb73263834"
+git-tree-sha1 = "6a49fb01a44e64ba8fdd9fc0380d332e73623c83"
 libc = "glibc"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "f4db6d1d35494498c3ba2dede9c294979d5db3103ec6c7934eb8e87be79e094a"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.powerpc64le-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "82960d3c4998e4f289c45ba621f17eb5a43083075b5ad0f38edf550030eef91f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.powerpc64le-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1de1c5809bf4ab031f88de04f801008f0c0b4c61"
+git-tree-sha1 = "395ea9c83925e42f4c02605d63d65d50da295e99"
 libc = "glibc"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "7754299fd45fe92fb8a3190ed3eb9994bcfff0af5fc19b4da23b06848de0d53c"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.riscv64-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "06b100a3427c462847eccaf705db8016ba4f65fde3a71a141073daac0bf8f87d"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.riscv64-linux-gnu-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f152348b58ffabe429c7d05b4f20291ea2028725"
+git-tree-sha1 = "de088addd933426b35f84d1f983edd4d11fbdf5a"
 libc = "musl"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "5dfe3f55a760d64b335cea20848c5acddec694a276d161efc64105df599ccf8a"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-linux-musl-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "d3ae9919d3c5298bb087023f9a350e259b238ad80bb4bf3cf5a38cf2f640a7e5"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-linux-musl-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bfe31157b3e718edf48442a87da1f7efba7fe0b7"
+git-tree-sha1 = "6267159032874ab35ee271c770a43e740f96f575"
 libc = "musl"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "c4cbe62bee6999e1ca2c580bd9c81796dd40d91007dab107ef1877cf313d5379"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-linux-musl-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "326e97836559b4310b2604af59328cc230056574a2878c08e3f7e22f77c24744"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-linux-musl-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4489eb1ae77f8aa3b8b8b44376cd2958a52898d6"
+git-tree-sha1 = "febe70f90be56b37e3f3a82cb025c94c039bffb6"
 libc = "musl"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "08354a80bdec0823106f7b2357e504d6ca338783f4210e9ffeb0450a5c420ff8"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv6l-linux-musleabihf-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "606da0263e677b5153c8e6b4e0399fd30847165a33d9bc085e3f84cd8c9fa625"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv6l-linux-musleabihf-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9796f5c7b45a2b45ee5db679d508f006f3f0a256"
+git-tree-sha1 = "3d9f4c57256a8a267e2eeb77dfb4425f8481f85a"
 libc = "musl"
 llvm_version = "23.asserts"
 os = "linux"
 
     [[LLVMExtra.download]]
-    sha256 = "ca2a1ed77ebadd4947787d9a31b3b9e3313a2d097c49a89570d62593fe121c02"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.armv7l-linux-musleabihf-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "531e7f5c5a8ae1610b71c6865dc8d7cdd73f7016e35f0269f222f4378c033a39"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.armv7l-linux-musleabihf-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "76cc4a3826f600d46a7b5d749763d4b5e571078a"
+git-tree-sha1 = "bc466be15ea8536ef7d13280554bbe3a9657c075"
 llvm_version = "23.asserts"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "474c45ed420b4a24c4045cf6428f94538f9cfa06873092de683408ccbd10e858"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-apple-darwin-llvm_version+23.asserts.tar.gz"
+    sha256 = "18e910572fe4276c1a2b4d164ddc838270ed90fae0358fa00d85c0449bb67150"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-apple-darwin-llvm_version+23.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "022831fde4b19848e454450d61b285df5cc5d110"
+git-tree-sha1 = "58c95315266aabf6b3264af0f25283e4dbd2b848"
 llvm_version = "23.asserts"
 os = "macos"
 
     [[LLVMExtra.download]]
-    sha256 = "1e9fca72aa1a8d41ea5492510f6c4829d1505c19dfbac48f117beea02b14d7e9"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-apple-darwin-llvm_version+23.asserts.tar.gz"
+    sha256 = "ea5a15374f179a136c2889a01e731f0516471b6003392f6eb51a3a49155507e9"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-apple-darwin-llvm_version+23.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
-git-tree-sha1 = "6e415f7a6487e5a341dbe3bc21d248968e68471c"
+git-tree-sha1 = "b01fa0ce94565d0a63090afa5cab9bd058772f54"
 llvm_version = "23.asserts"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "ba56a4a6f989bd7c0d68509dc6fef5aa5a732da80632462e3703ed92b5654386"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-unknown-freebsd-llvm_version+23.asserts.tar.gz"
+    sha256 = "66db61c3fa4f5f6847365bf9c8782ba6f8e3c2ac41ba19f96996751b2b07a9e3"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-unknown-freebsd-llvm_version+23.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "aarch64"
-git-tree-sha1 = "a017fc850e01727df7c579fc7bcbecee05409b40"
+git-tree-sha1 = "70da911a1036f2a697b25df3b0fc4248e0c2e833"
 llvm_version = "23.asserts"
 os = "freebsd"
 
     [[LLVMExtra.download]]
-    sha256 = "87f42a60b5f3d3f0cefd8dc47e21644f53f5d9c060f5b6b3a93d6d4750c8fb27"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.aarch64-unknown-freebsd-llvm_version+23.asserts.tar.gz"
+    sha256 = "198a3092ee142650189cc0881922f9dad8f9c559beadeae33881e3b93130dd2e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.aarch64-unknown-freebsd-llvm_version+23.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5bd0e05c3a8398766f14ba07f15d8b1f6e48272c"
+git-tree-sha1 = "63ca4d6c1e9636430419c00beb2091bc6f4f3a67"
 llvm_version = "23.asserts"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "53c3cf02dab2eea87e29fd6ab94b1d13e34e09a5b80af109bc5d1c164434cb15"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.i686-w64-mingw32-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "ec6c3036b44035abed4001e075125ecacaceecbd31de3e901bf72b7eb435f96a"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.i686-w64-mingw32-cxx11-llvm_version+23.asserts.tar.gz"
 [[LLVMExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cfcd99f4ea9fbf7c087aebe4f8e08921bccccdff"
+git-tree-sha1 = "96cb128ab1f909e7ce64b0ca5b3c14b4952bf9bb"
 llvm_version = "23.asserts"
 os = "windows"
 
     [[LLVMExtra.download]]
-    sha256 = "1b53280a88f8b60f6fd2c66b1b4364eb2561f5e9ac6100e69af53bc3e5dd4d25"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.59+0/LLVMExtra.v0.0.59.x86_64-w64-mingw32-cxx11-llvm_version+23.asserts.tar.gz"
+    sha256 = "7fc8fda38a2650ac6fdaaa4c5a763123ca03a4dbcefe00d0fe131186d7ea1d51"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.60+0/LLVMExtra.v0.0.60.x86_64-w64-mingw32-cxx11-llvm_version+23.asserts.tar.gz"
